@@ -1,0 +1,162 @@
+.cart-button {
+    position: relative;
+
+    @include flex;
+    @include align-items(center);
+
+    a {
+        color: inherit;
+    }
+
+    .icon-button {
+        color: inherit;
+    }
+
+    svg {
+        height: 1.25rem;
+    }
+
+    &-total {
+        margin: 0px 0.6rem;
+        font-weight: 500;
+        font-size: 0.85em;
+    }
+
+    .holder {
+        position: relative;
+    }
+
+    .badge {
+        position: absolute;
+        height: 1.125rem;
+        min-width: 1.125rem;
+        padding: 0px 0.25rem;
+        top: 0;
+        right: 0;
+        font-size: .55em;
+        font-weight: 600;
+
+        @include flex;
+        @include align-items(center);
+        @include flex-just(center);
+        @include border-radius(0.6rem);
+    }
+}
+
+// Dropdown
+
+.cart-mini {
+    position: absolute;
+    text-align: left;
+    right: -0.5rem;
+    top: 120%;
+    line-height: 1.4;
+    z-index: 101;
+    width: 26.5rem;
+    background-color: $color-white;
+
+    @include dropdown-shadow;
+    @include flip-up;
+    @include border-radius;
+
+    .headline {
+        height: 70px;
+
+        @include spacer2x(padding-left);
+
+        @include flex;
+        @include align-items(center);
+        @include flex-just(space-between);
+
+        h6 {
+            font-size: 1.2em;
+        }
+
+        .icon-button {
+            margin-right: 1rem;
+        }
+    }
+
+    .widget_shopping_cart_content {
+
+        @include spacer2x(padding-left);
+        @include spacer2x(padding-right);
+        @include spacer2x(padding-bottom);
+    }
+
+    &.visible {
+
+        @include flip-up-active;
+    }
+
+    // Mobile
+
+    @include sm-screen {
+
+        & {
+            width: calc(100% - 40px);
+            position: fixed;
+            left: 20px;
+            right: 20px;
+            top: 80px; 
+        }
+    }
+}
+
+// Styles for Mini Cart + Cart Widget
+
+.widget_shopping_cart_content {
+    width: 100%;
+
+    .woocommerce-mini-cart {
+        max-height: 17.25rem;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+    .total {
+        border-top: 1px solid $color-border;
+        padding: 1rem 0;
+        margin: 1rem 0 0 0;
+        font-size: $font-size-small;
+
+        @include flex;
+        @include flex-just(space-between);
+
+        strong {
+            font-weight: 500;
+        }
+    }
+
+    .buttons {
+        margin: 0;
+        text-transform: capitalize;
+
+        @include flex;
+        @include align-items(center);
+        @include flex-direction(column-reverse);
+
+        .button {
+
+            // View Cart button
+
+            &:first-child {
+                margin-top: 1rem;
+            }
+
+            // Checkout button
+            
+            &:last-child {
+                width: 100%;
+                
+                @include flex-just(center);
+            }
+        }
+    }
+}
+
+.blockOverlay {
+    background: rgba($color-danger, .2) !important;
+    
+    @include border-radius;
+}

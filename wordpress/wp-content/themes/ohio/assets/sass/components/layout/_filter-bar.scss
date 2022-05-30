@@ -1,0 +1,58 @@
+.filter {
+
+    @include flex;
+    @include align-items(center);
+    @include flex-just(flex-end);
+
+    &-holder {
+        position: relative;
+
+        .button {
+            display: none;
+            margin-left: 1rem;
+
+            @include sm-screen {
+
+                @include inline-flex;
+            }
+        }
+
+        @include md-screen {
+
+            .close-bar {
+                display: none;
+            }
+
+            select {
+                margin-left: 0.5rem;
+                max-width: 10.35rem;
+            }
+
+            .woocommerce-ordering {
+                margin-left: 0.5rem; 
+
+                > select {
+                    margin-left: 0;
+                }
+            }
+
+            .result {
+                display: block !important; // override standard WooCommerce styles
+                margin-right: 1rem;
+                white-space: nowrap;
+            }
+        }
+    }
+
+    @include sm-screen {
+
+        display: block;
+
+        .result {
+
+            p {
+                margin: 0;
+            }
+        }
+    }
+}

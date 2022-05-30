@@ -1,0 +1,23 @@
+.service-table {
+
+	@include spacer2x;
+	@include border-radius;
+	@include transition(background-color);
+
+	&:hover {
+		background-color: $color-neutral-8;
+	}
+
+	@include sm-screen {
+		
+		background-color: $color-neutral-8;
+	}
+}
+
+.minimal-scheme {
+
+	.service-table {
+
+		@include border-radius(0);
+	}
+}

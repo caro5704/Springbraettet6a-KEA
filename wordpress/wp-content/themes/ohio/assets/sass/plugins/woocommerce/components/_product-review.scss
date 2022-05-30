@@ -1,0 +1,97 @@
+.woocommerce {
+
+	// Rating stars
+
+	.stars,
+	.star-rating {
+
+		a::before,
+		&::before,
+		> span::before {
+			font-size: 1rem;
+			line-height: 1;
+
+			@include transition;
+		}
+	}
+
+	.stars {
+		line-height: 1;
+		margin: 0;
+
+		@include inline-flex;
+
+		a {
+			position: relative;
+			width: 0.8em;
+			text-indent: -999em;
+			display: inline-block;
+
+			&::before {
+				content: "★";
+				color: $color-grey;
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 1em;
+				height: 1em;
+				text-indent: 0;
+				opacity: 0.3;
+			}
+		}
+
+		&:hover a:hover ~ a::before,
+		&.selected a.active ~ a::before,
+		&.selected:hover span a:hover ~ a::before {
+			content: "★";
+			opacity: 0.3;
+		}
+
+		&:hover a::before,
+		&.selected a::before,
+		&.selected:hover span a::before {
+			content: "★";
+			opacity: 1;
+			color: $color-black;
+		}
+	}
+
+	.star-rating {
+		width: auto;
+		max-height: 1.2rem;
+		line-height: 1.2rem;
+		display: inline-block;
+		position: relative;
+		vertical-align: middle;
+		overflow: hidden;
+		color: $color-grey;
+
+		a:hover {
+			opacity: 1;
+		}
+
+		&::before {
+			content: "★★★★★";
+			font-weight: normal;
+    		letter-spacing: 2px;
+			opacity: 0.3;
+			float: left;
+			top: 0;
+			left: 0;
+			position: absolute;
+			word-wrap: normal;
+		}
+
+		> span {
+			display: inline-block;
+			font-size: 0;
+			overflow: hidden;
+
+			&::before {
+				content: "★★★★★";
+				font-weight: normal;
+    			letter-spacing: 2px;
+			}
+		}
+	}
+}

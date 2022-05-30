@@ -1,0 +1,55 @@
+.menu {
+
+	li {
+
+		&.new,
+		&.version {
+
+			span {
+
+				&:after {
+					margin: -2px 0 0 5px;
+					padding: 0 5px;
+					height: 1.25rem;
+					font-size: 10px;
+					font-weight: bold;
+					vertical-align: middle;
+					color: $color-white;
+
+					@include inline-flex;
+					@include align-items(center);
+					@include border-radius;
+
+					@include note-screen {
+
+						padding: 0 4px;
+						height: 1.15rem;
+						font-size: 10px;
+					}
+				}
+			}
+		}
+
+		&.new {
+
+			span {
+
+				&:after {
+					content:"NEW";
+					background-color: $color-red;
+				}
+			}
+		}
+
+		&.version {
+
+			span {
+
+				&:after {
+					content:"V3.0";
+					background-color: $color-black-light;
+				}
+			}
+		}
+	}
+}

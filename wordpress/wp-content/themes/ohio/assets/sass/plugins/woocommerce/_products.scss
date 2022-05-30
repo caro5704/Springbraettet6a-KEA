@@ -1,0 +1,149 @@
+.woo-products {
+	margin-top: -$grid-spacer;
+
+	.product {
+		padding: $grid-spacer;
+		float: left;
+
+		@include sm-screen {
+
+			padding-bottom: 0;
+		}
+	}
+
+	.woo-product-name, 
+	.woo-category {
+		margin-bottom: 0.2rem;
+	}
+
+	.tag {
+
+		@include spacer2x(left);
+		@include spacer2x(top);
+		@include faded;
+		@include transition;
+	}
+
+	// Quickview button
+
+	.button-quickview {
+
+		@include spacer2x(left);
+		@include spacer2x(top);
+	}
+
+	.tag,
+	.button-quickview,
+	.product-item-buttons {
+		position: absolute;
+		z-index: 2;
+	}
+
+	.product-item {
+
+		// Product image
+
+		&-thumbnail {
+			overflow: hidden;
+			position: relative;
+
+			.image-holder {
+				display: block;
+
+				img {
+					min-width: 100%;
+				}
+
+				&::after {
+					z-index: 1;
+				}
+			}
+
+			.clb-slider-nav-btn {
+				right: 0;
+				min-width: initial;
+
+				@include fadeDown-hidden;
+			}
+		}
+
+		// Buttons group
+
+		&-buttons {
+			padding: 1.5rem;
+			width: 100%;
+			bottom: 0;
+
+			@include spacer2x(padding-bottom);
+			@include flex;
+
+			.button-group {
+				width: 100%;
+				padding: 0 0.5rem;
+
+				// Small button styles
+
+				.button {
+					width: 100%;
+				    padding: 0 0.75rem;
+				    min-height: 2.25rem;
+					font-size: $font-size-small;
+				}
+			}
+		}
+
+		.clb-slider {
+
+			&-nav-btn {
+				top: 0;
+				bottom: auto;
+
+				@include flex-direction(column);
+				@include spacer2x(padding);
+
+				@include sm-screen {
+
+					display: none;
+				}
+				
+				.prev-btn,
+				.next-btn {
+					transform: rotate(90deg);
+				}
+			}
+
+			.clb-slider-item {
+
+				&.active {
+
+					img {
+						z-index: 1;
+					}
+				}
+			}
+		}
+
+		&:hover {
+
+			@include md-screen {
+
+				.clb-slider-nav-btn {
+
+					@include faded;
+				}
+			}
+
+			@include sm-screen {
+
+				.product-item-buttons {
+					display: none;
+				}
+			}
+
+			.tag {
+
+				@include fadeUp-hidden;
+			}
+		}
+	}
+}

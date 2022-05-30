@@ -1,0 +1,29 @@
+.elements-bar {
+    position: fixed;
+    top: 50%;
+    z-index: 50;
+    min-height: 3.5rem;
+
+    @include inline-flex;
+
+    > li {
+        padding: 0;
+    }
+
+    @include md-screen {
+        
+        &.left {
+            transform-origin: left top;
+            transform: rotate(-90deg) translate(-50%, 0);
+
+            @include spacer(left);
+        }
+
+        &.right {
+            transform-origin: right top;
+            transform: rotate(-90deg) translate(50%, -100%);
+
+            @include spacer(right);
+        }
+    } 
+}

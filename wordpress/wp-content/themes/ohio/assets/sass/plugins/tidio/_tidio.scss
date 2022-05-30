@@ -1,0 +1,19 @@
+.page-template-page_for-projects.slider-with-bullets,
+.single-ohio_portfolio,
+.single-post,
+.single-product {
+
+    #tidio-chat {
+        visibility: hidden;
+        opacity: 0;
+    }
+}
+
+@include tablet-screen {
+
+    #tidio-chat {
+        visibility: hidden;
+        display: none;
+        opacity: 0;
+    }
+}

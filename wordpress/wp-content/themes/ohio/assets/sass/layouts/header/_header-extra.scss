@@ -1,0 +1,371 @@
+:not(.is-mobile-menu) {
+
+    &.with-header-2 {
+
+        .header-cap {
+            height: $header-height-2;
+        }
+    }
+
+    &.with-header-5 {
+
+        // Left content spacing
+
+        &.with-spacer {
+
+            .site-content,
+            [data-vc-stretch-content],
+            .elementor-section-stretched {
+                padding-left: $header-height-5;
+            }
+
+            .site-footer {
+                margin-left: $header-height-5;
+            }
+
+        }
+
+        // Elements position
+
+        .elements-bar.left,
+        .search-global.fixed,
+        .back-link {
+            margin-left: $header-height-5;
+        }
+    }
+    
+    &.with-header-7 {
+
+        // Hamburger menu close button position
+
+        .hamburger-nav {
+
+            &:not(.type2):not(.type3) {
+                padding-left: $header-height;
+            }
+            
+            .close-bar {
+
+                @include flex-just(center);
+            }
+        }
+    }
+
+    &.with-header-6,
+    &.with-header-7 {
+
+        // Left content spacing
+
+        &.with-spacer {
+
+            .site-content,
+            [data-vc-stretch-content],
+            .elementor-section-stretched {
+                padding-left: $header-height-6;
+            }
+
+            .site-footer {
+                margin-left: $header-height-6;
+            }
+        }
+
+        // Hamburger menu close button position
+
+        .hamburger-nav {
+
+            .close-bar {
+                width: 100vh;
+                height: $header-height-6;
+                transform-origin: left top;
+                transform: rotate(90deg) translate(0, -100%);
+
+                @include spacer2x(padding-left);
+                @include spacer2x(padding-right);
+            }
+        }
+
+        // Elements position
+
+        .elements-bar.left,
+        .back-link,
+        .search-global.fixed,
+		.scroll-bar-container {
+            margin-left: $header-height-6;
+        }
+
+        .search-global {
+
+            &.fixed {
+
+                @include spacer2x(bottom);
+            } 
+        }
+    }
+
+    &.with-header-5,
+    &.with-header-6,
+    &.with-header-7 {
+
+        .header-cap {
+            display: none;
+
+            @include sm-screen {
+                
+                display: block;
+            }
+        }
+
+        &[data-elementor-device-mode=mobile] {
+
+            .header-5,
+            .header-6,
+            .header-7 {
+                display: none;
+            }
+
+            .site-content,
+            .site-footer {
+                margin-left: 0;
+            }
+
+            [data-vc-stretch-content],
+            .elementor-section-stretched {
+                padding-left: 0;
+            }
+        }
+    }
+}
+
+.page-is-loaded {
+
+    &.is-mobile-menu {
+
+        .nav {
+            display: block;
+        }
+    }
+
+	@include sm-screen {
+			
+		.header {
+			opacity: 1;
+		}
+
+		.header:not(.-mobile).header-1 .nav-container {
+			display: none;
+		}
+	}
+}
+
+// Dynamic color overrides (light/dark typo)
+
+.header-dynamic-typo {
+
+    &.dark-typo {
+
+        .menu > li > a,
+        .menu-optional .cart-button-total a,
+        .menu-optional > li > a:not(.btn-optional),
+        .select-styled,
+        .menu-optional .icon-button:not(.clb-close) .icon,
+        .hamburger,
+        .menu-blank,
+        .branding {
+            color: $color-black !important;
+        }
+
+        .branding {
+
+            .logo {
+                display: none;
+            }
+
+            .for-onepage {
+
+                .dark {
+                    display: block !important;
+                }
+            }
+        }
+    }  
+
+	@include sm-screen {
+        
+		.branding {
+
+			.mobile-logo {
+				display: none;
+			}
+		}
+	}
+}
+
+.header-dynamic-typo {
+
+    &.light-typo {
+
+        .menu > li > a,
+        .menu-optional .cart-button-total a,
+        .menu-optional > li > a:not(.btn-optional),
+        .select-styled,
+        .menu-optional .icon-button:not(.clb-close) .icon,
+        .hamburger,
+        .menu-blank,
+        .branding {
+            color: $color-white !important;
+        }
+        
+        .branding {
+
+            .logo {
+                display: none !important; 
+            }
+
+            .for-onepage {
+
+                .light {
+                    display: block !important;
+                }
+            }
+        }
+    }  
+}
+
+// Disable headers in the Elementor Editor mode
+
+.elementor-html,
+.vc_editor {
+
+    .header {
+
+        &:not(.header-5):not(.header-6):not(.header-7) {
+            z-index: 0;
+        }
+    }
+}
+
+// Right content spacing for slider layouts
+
+.slider-with-bullets {
+
+    .elements-bar.right,
+    .clb-slider:not(.-slider-lightbox) .clb-slider-nav-btn,
+    .portfolio-onepage-slider .clb-slider-nav-btn,
+    .alert.-fixed {
+        margin-right: $bullets-spacer;
+    }
+
+    &:not(.slider-with-bullets-type5) {
+
+        .sticky-nav {
+            margin-right: $bullets-spacer;
+        }
+    }
+
+    &:not(.slider-with-bullets-type8) {
+
+        .header {
+            margin-right: $bullets-spacer;
+        }
+    }
+
+    // &.slider-with-bullets-type5 {
+
+    //     .header,
+    //     .elements-bar.right {
+
+    //         margin-right: $bullets-spacer;
+    //     }
+    // }
+
+    // &.slider-with-bullets-type8 {
+
+    //     .elements-bar.right {
+
+    //         margin-right: $bullets-spacer;
+    //     }
+    // }
+
+    .color-switcher {
+        margin-right: $bullets-spacer;
+    }
+}
+
+// With WP admin panel bar
+
+.admin-bar {
+
+    .header {
+
+        &:not(.-sticky) {
+
+            &.-mobile {
+
+                .cart-mini {
+                    margin-top: 3rem;
+                }
+            }
+        }
+    }
+
+    .clb-popup:not(.project-lightbox):not(.clb-gallery-lightbox),
+    .-sticky:not(.-mobile),
+    .header-5:not(.-mobile) .top-part,
+    .header-6:not(.-mobile) .top-part,
+    .header-7:not(.-mobile) .top-part,
+    .header-7:not(.-mobile) .middle-part {
+        margin-top: 2rem;
+    }
+}
+
+// Share bar position
+
+@media screen and (min-width: 1024px) and (max-width: 1440px) {
+
+    .with-header-5 {
+
+        &.single-post {
+
+            .post-share {
+
+                .share-bar {
+                    left: 10px;
+                }
+            }
+        }
+    }
+
+    .with-header-6,
+    .with-header-7 {
+
+        &.single-post {
+
+            .post-share {
+
+                .share-bar {
+                    left: -30px;
+                }
+            }
+        }
+    }
+}
+
+@include sm-screen {
+    
+	.with-header-5,
+	.with-header-6,
+	.with-header-7 {
+
+        // Left content spacing
+
+        &.with-spacer {
+
+            .site-content,
+            .site-footer,
+            [data-vc-stretch-content],
+            .elementor-section-stretched {
+                padding-left: 0 !important;
+            }
+        }
+    }
+}

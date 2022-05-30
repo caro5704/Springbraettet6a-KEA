@@ -1,0 +1,65 @@
+.woo-alert-group {
+	margin-bottom: 1rem;
+
+	.alert {
+		margin-bottom: 0.25rem;
+	}
+
+	+ .woo-alert-group {
+		margin-top: -1rem;
+	}
+}
+
+// With animation
+
+.woo-alert-group {
+	
+	.alert {
+
+		&:not(.-danger) {
+			z-index: 101;
+			animation: 0.4s slide_up $transition-function;
+
+			@include sm-screen {
+				padding-right: 3rem;
+				left: $grid-spacer;
+				right: $grid-spacer;
+				transform: translateX(0);
+				display: block;
+				animation: 0.4s slide_up_mobile $transition-function;
+
+				.icon-button {
+					position: absolute;
+					top: 0.57rem;
+					right: 0.75rem;
+				}
+			}
+		}
+	}
+}
+
+@keyframes slide_up {
+
+	0% { 
+		transform: translateX(-50%) translateY(150%);
+		opacity: .5;
+	}
+
+	100% { 
+		transform: translateX(-50%) translateY(0%);
+		opacity: 1;
+	}
+}
+
+@keyframes slide_up_mobile {
+
+	0% { 
+		transform: translateX(0) translateY(150%);
+		opacity: .5;
+	}
+
+	100% { 
+		transform: translateX(0) translateY(0%);
+		opacity: 1;
+	}
+}

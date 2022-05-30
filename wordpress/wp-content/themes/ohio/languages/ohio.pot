@@ -1,0 +1,7124 @@
+# Copyright (C) 2021 Colabrio
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ohio 3.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/theme/ohio\n"
+"POT-Creation-Date: 2022-05-24 11:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: inc/tgmpa/acf-php/global_post.php:74
+msgid "\"Prev and next posts\""
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:542
+msgid "%"
+msgstr ""
+
+#. 1: formatted order total 2: total order items
+#: woocommerce/myaccount/orders.php:67
+msgid "%1$s for %2$s item"
+msgid_plural "%1$s for %2$s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:34
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:47
+msgid "%s"
+msgid_plural "%s"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: title of menu item which is invalid
+#: inc/menu/edit_mega_menu_walker.php:87
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: inc/menu/edit_mega_menu_walker.php:91
+msgid "%s (Pending)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1477 
+#: inc/tgmpa/acf-php/global_portfolio.php:2626
+msgid "(24 words by default)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:104
+msgid "(e.g. adobe-caslon-pro)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:107
+msgid "(e.g. Brand Strategy, UX Strategy)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:135
+msgid "(e.g. Envato Market)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:63
+msgid "(e.g. f3g5j8g)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:149
+msgid "(e.g. Tools, Technologies)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:121
+msgid "(e.g. UI/UX Design, Art Direction)"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:70
+msgid "(estimated for %s)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_custom_css.php:59
+msgid "(from 1025px)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:27
+msgid "(JPG, PNG, GIF formats are supported)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:662 
+#: inc/tgmpa/acf-php/global_footer.php:237
+msgid "(left side)"
+msgstr ""
+
+#: woocommerce/share.php:91
+msgid "(Now"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:704 
+#: inc/tgmpa/acf-php/global_footer.php:259
+msgid "(right side)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_custom_css.php:70
+msgid "(up to 1024px)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_custom_css.php:81
+msgid "(up to 768px)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:416 
+#: inc/tgmpa/acf-php/global_typography.php:425 
+#: inc/tgmpa/acf-php/global_typography.php:434 
+#: inc/tgmpa/acf-php/global_typography.php:443 
+#: inc/tgmpa/acf-php/global_typography.php:452 
+#: inc/tgmpa/acf-php/global_typography.php:461 
+#: inc/tgmpa/acf-php/global_typography.php:470
+msgid "(Use CSS Units"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:858 
+#: inc/tgmpa/acf-php/_group_page_options.php:872
+msgid "(Use CSS-units)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:320 
+#: inc/tgmpa/acf-php/global_header.php:424
+msgid "(Use pixels)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:408
+msgid "(Use pre-made forms only)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:67
+msgid "(YouTube, Vimeo and self-hosted video types)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:121
+msgid "+ Add Author"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:156
+msgid "+ Add Field"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:680 
+#: inc/tgmpa/acf-php/global_header.php:722 
+#: inc/tgmpa/acf-php/global_menu.php:316
+msgid "+ Add item"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:147
+msgid "+ Add Link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:715
+msgid "+ Add social network"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:261
+msgid ".ttf/.otf font file"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:280
+msgid ".woff/.woff2 font file"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:94
+msgid "100% 100%"
+msgstr ""
+
+#: parts/elements/page_headline.php:128
+msgid "404. Nothing here"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:190 inc/tgmpa/acf-php/global_other.php:758
+msgid "500px"
+msgstr ""
+
+#: parts/elements/social_bar.php:318
+msgid "500px."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:116
+msgid "A password will be sent to your email address."
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:349 inc/tgmpa/ocdi_setup.php:360 
+#: inc/tgmpa/ocdi_setup.php:371 inc/tgmpa/ocdi_setup.php:382 
+#: inc/tgmpa/ocdi_setup.php:393 inc/tgmpa/ocdi_setup.php:404
+msgid "About"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:594
+msgid "Account icon"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_custom_css.php:45 
+#: inc/tgmpa/acf-php/global_typography.php:402
+msgid "Adaptive Options"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:65 
+#: inc/tgmpa/acf-php/global_typography.php:85
+msgid "Add"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:50
+msgid "Add a footer content wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:172
+msgid "Add a header content wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:226
+msgid "Add a link to the custom project page or live project website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:41
+msgid "Add a page content wrapper"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:75
+msgid "Add a review"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:67
+msgid "Add a video file for this project"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:355
+msgid "Add back link button to previous page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1154 
+#: inc/tgmpa/acf-php/global_page.php:303
+msgid "Add colored overlay over background image?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:665 
+#: inc/tgmpa/acf-php/global_header.php:707
+msgid "Add content items to subheader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:838
+msgid "Add content wrapper to this page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:157
+msgid "Add custom web fonts to use on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:294
+msgid "Add details for the hamburger menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:100 
+#: inc/tgmpa/acf-php/global_typography.php:177
+msgid "Add Font"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1473
+msgid "Add footer content wrapper?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:76
+msgid "Add links underline decoration?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:27
+msgid "Add media files for this project"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1192 
+#: inc/tgmpa/acf-php/global_page.php:335
+msgid "Add parallax effect to background image?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:332 
+#: inc/tgmpa/acf-php/global_blog.php:361
+msgid "Add side gaps for blog cards"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:532 
+#: inc/tgmpa/acf-php/global_portfolio.php:578
+msgid "Add side gaps for portfolio cards"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:265
+msgid "Add side gaps for product cards"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:240 
+#: inc/tgmpa/acf-php/global_footer.php:262
+msgid "Add some content to copyright bar"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:218
+msgid "Add some content to copyright bar. You can use HTML tags"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:104
+msgid "Add some details about the coming soon page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:114
+msgid "Add some links to author social networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:431 
+#: inc/tgmpa/acf-php/_group_page_options.php:451
+msgid "Add spacer"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:369
+msgid "Add text for previous button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:106
+msgid "Add tilt effect for blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:146
+msgid "Add tilt effect to item image"
+msgstr ""
+
+#: woocommerce/single-product/sticky-product.php:61
+msgid "Add to cart"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:894
+msgid "Add top and bottom paddings for page content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:99
+msgid "Add top and bottom page content margins"
+msgstr ""
+
+#: inc/sidebars.php:7 inc/sidebars.php:17
+msgid "Add widgets here."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:139
+msgid "Added on: %s"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional Information"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:47
+msgid "Adobe Fonts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:82
+msgid "Adobe Fonts list"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:60
+msgid "Adobe Fonts project ID"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1080
+msgid "After expiry, user will see the notification bar again"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:564
+msgid "After expiry, user will see the subscribe pop-up again"
+msgstr ""
+
+#: page_templates/page_for-projects.php:305
+msgid "All"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:514
+msgid "All Pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:273
+msgid "All right reserved."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:71 inc/tgmpa/acf-php/global_menu.php:165 
+#: inc/tgmpa/acf-php/global_menu.php:487
+msgid "Appearance"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Apply Coupon"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:46
+msgid "Are you sure you want to remove this item from cart?"
+msgstr ""
+
+#: parts/elements/social_bar.php:30
+msgid "Art."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:158 inc/tgmpa/acf-php/global_other.php:726
+msgid "Artstation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:71 
+#: inc/tgmpa/acf-php/global_portfolio.php:1889
+msgid "Asymmetric with Custom Details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:189 
+#: inc/tgmpa/acf-php/template_portfolio.php:387 
+#: inc/tgmpa/acf-php/template_blog.php:226 
+#: inc/tgmpa/acf-php/global_blog.php:239 
+#: inc/tgmpa/acf-php/global_portfolio.php:392
+msgid "Async animation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:224
+msgid "Attach, fixed image"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:219
+msgid "Attribute setting"
+msgstr ""
+
+#: parts/elements/page_headline.php:79 inc/tgmpa/acf-php/global_post.php:85 
+#: inc/tgmpa/acf-php/global_post.php:97 inc/tgmpa/acf-php/global_post.php:125 
+#: inc/tgmpa/acf-php/global_blog.php:427
+msgid "Author"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:693
+msgid "Author filter"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:111
+msgid "Author social links"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:441
+msgid "Author typography"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:73
+msgid "Author:"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:382
+msgid "Authors"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:91
+msgid "Auto"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:571 
+#: inc/tgmpa/acf-php/template_portfolio.php:840 
+#: inc/tgmpa/acf-php/global_portfolio.php:1067 
+#: inc/tgmpa/acf-php/global_portfolio.php:2210 
+#: inc/tgmpa/acf-php/global_portfolio.php:2863
+msgid "Autoplay interval timeout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:524 
+#: inc/tgmpa/acf-php/template_portfolio.php:797 
+#: inc/tgmpa/acf-php/global_portfolio.php:1020 
+#: inc/tgmpa/acf-php/global_portfolio.php:2173 
+#: inc/tgmpa/acf-php/global_portfolio.php:2841
+msgid "Autoplay mode"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:129
+msgid "Average"
+msgstr ""
+
+#: parts/elements/back_link.php:3 inc/tgmpa/acf-php/global_page.php:381
+msgid "Back"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:346
+msgid "Back Link Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:665
+msgid "Back Smooth Scrolling"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:27
+msgid "Background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:5
+msgid "Background group settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:45
+msgid "Background image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:125
+msgid "Badge"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:39
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/acf-php/global_other.php:464
+msgid "Be the first to know about further promotions and upcoming products."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:75
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: parts/elements/social_bar.php:39
+msgid "Be."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:159 inc/tgmpa/acf-php/global_other.php:727
+msgid "Behance"
+msgstr ""
+
+#: inc/init/theme.php:54
+msgid "Beige Dark"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:23
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:33
+msgid "Billing address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing details"
+msgstr ""
+
+#: inc/sidebars.php:5 inc/tgmpa/acf_setup.php:61 inc/tgmpa/ocdi_setup.php:481 
+#: parts/elements/page_headline.php:35
+msgid "Blog"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:86
+msgid "Blog categories"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:317
+msgid "Blog grid layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:126 
+#: inc/tgmpa/acf-php/global_blog.php:163
+msgid "Blog grid spacing"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:143
+msgid "Blog grid tilt effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:103 inc/tgmpa/acf-php/global_blog.php:81
+msgid "Blog hover effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:169 
+#: inc/tgmpa/acf-php/global_blog.php:183
+msgid "Blog items per page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:185 
+#: inc/tgmpa/acf-php/global_blog.php:199
+msgid "Blog items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:33 inc/tgmpa/acf-php/global_blog.php:33
+msgid "Blog layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:389 
+#: inc/tgmpa/acf-php/global_blog.php:635
+msgid "Blog Page"
+msgstr ""
+
+#. Name of the template
+msgid "Blog page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:658
+msgid "Blog Page Filters"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:400 
+#: inc/tgmpa/acf-php/global_blog.php:708
+msgid "Blog Page Pagination"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog_pages.php:5
+msgid "Blog Pages Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:5 inc/tgmpa/acf-php/global_blog.php:5
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:141
+msgid "Blog thumbnail size"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:103
+msgid "Blog tilt effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:117
+msgid "Blog tilt effect perspective"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:907 
+#: inc/tgmpa/acf-php/template_portfolio.php:1050 
+#: inc/tgmpa/acf-php/global_portfolio.php:1275 
+#: inc/tgmpa/acf-php/global_portfolio.php:2314
+msgid "Blurred"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:97
+msgid "Borders color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:207 
+#: inc/tgmpa/acf-php/global_menu.php:42
+msgid "Both menus"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:107 
+#: inc/tgmpa/acf-php/project_settings.php:216 
+#: inc/tgmpa/acf-php/global_portfolio.php:1921
+msgid "Bottom - After content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1639
+msgid "Bottom - After portfolio"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:611
+msgid "Bottom - After products"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:622
+msgid "Bottom border color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:585
+msgid "Bottom border type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1326 
+#: inc/tgmpa/acf-php/global_page.php:486
+msgid "Boxed"
+msgstr ""
+
+#: inc/init/theme.php:49 inc/tgmpa/acf-php/global_general.php:33
+msgid "Brand color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1335 
+#: inc/tgmpa/acf-php/_group_page_options.php:1341 
+#: inc/tgmpa/acf-php/global_page.php:519 inc/tgmpa/acf-php/global_page.php:530
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1361 
+#: inc/tgmpa/acf-php/global_page.php:598
+msgid "Breadcrumbs background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:571
+msgid "Breadcrumbs home slug"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:544
+msgid "Breadcrumbs separator"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:436 
+#: inc/tgmpa/acf-php/global_blog.php:646 
+#: inc/tgmpa/acf-php/global_portfolio.php:1594
+msgid "Breadcrumbs slug"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1377 
+#: inc/tgmpa/acf-php/global_page.php:637
+msgid "Breadcrumbs typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:357 
+#: inc/tgmpa/acf-php/project_settings.php:463 
+#: inc/tgmpa/acf-php/global_portfolio.php:937 
+#: inc/tgmpa/acf-php/global_portfolio.php:2069 
+#: inc/tgmpa/acf-php/global_portfolio.php:2122 
+#: inc/tgmpa/acf-php/global_portfolio.php:2797
+msgid "Bullets"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:405 
+#: inc/tgmpa/acf-php/global_portfolio.php:951
+msgid "Bullets color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:447 
+#: inc/tgmpa/acf-php/global_portfolio.php:921 
+#: inc/tgmpa/acf-php/global_portfolio.php:2106
+msgid "Bullets type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:711 
+#: inc/tgmpa/acf-php/global_portfolio.php:874
+msgid "Bullets visibility"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:87
+msgid "Buttons color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1905
+msgid "by clicking the \"Save Changes\" button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1157
+msgid ""
+"Cache allows to avoid repeated queries to the database, thereby speeding up "
+"your site. Turn off this setting to reset and stop cache"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:267
+msgid "Cancel"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:62 
+#: inc/tgmpa/acf-php/global_portfolio.php:57
+msgid "Caption cursor grid"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:263 
+#: inc/tgmpa/acf-php/global_blog.php:306
+msgid "Cards"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:465 
+#: inc/tgmpa/acf-php/global_portfolio.php:517
+msgid "Cards / Slides"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:82 
+#: inc/tgmpa/acf-php/global_portfolio.php:77
+msgid "Carousel with horizontal scroll"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:562
+msgid "Cart icon"
+msgstr ""
+
+#: parts/elements/menu_cart.php:23
+msgid "Cart review"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27 
+#: inc/tgmpa/acf-php/global_ecommerce.php:572
+msgid "Cart totals"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:350
+msgid "Categories"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:665
+msgid "Categories filter"
+msgstr ""
+
+#: woocommerce/product-searchform.php:41 parts/elements/breadcrumbs.php:212 
+#: parts/elements/page_headline.php:39 inc/tgmpa/acf-php/product.php:141 
+#: inc/tgmpa/acf-php/global_blog.php:571 
+#: inc/tgmpa/acf-php/global_portfolio.php:1345 
+#: inc/tgmpa/acf-php/global_product.php:153
+msgid "Category"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1112 
+#: inc/tgmpa/acf-php/global_portfolio.php:1656
+msgid "Category filter"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1151 
+#: inc/tgmpa/acf-php/global_portfolio.php:1687
+msgid "Category filter accent typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1170 
+#: inc/tgmpa/acf-php/global_portfolio.php:1704
+msgid "Category filter position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1132 
+#: inc/tgmpa/acf-php/global_portfolio.php:1670
+msgid "Category filter typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:57 inc/tgmpa/acf-php/global_product.php:65
+msgid "Category slug"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:585 
+#: inc/tgmpa/acf-php/global_portfolio.php:1359
+msgid "Category typography"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:64 
+#: woocommerce/single-product/meta.php:66
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1119 
+#: inc/tgmpa/acf-php/global_ecommerce.php:302 
+#: inc/tgmpa/acf-php/global_ecommerce.php:536 
+#: inc/tgmpa/acf-php/template_portfolio.php:1187 
+#: inc/tgmpa/acf-php/template_portfolio.php:1289 
+#: inc/tgmpa/acf-php/template_blog.php:376 
+#: inc/tgmpa/acf-php/template_blog.php:487 
+#: inc/tgmpa/acf-php/global_page.php:272 inc/tgmpa/acf-php/global_blog.php:406 
+#: inc/tgmpa/acf-php/global_blog.php:792 
+#: inc/tgmpa/acf-php/_group_background_options.php:139 
+#: inc/tgmpa/acf-php/global_portfolio.php:748 
+#: inc/tgmpa/acf-php/global_portfolio.php:1720 
+#: inc/tgmpa/acf-php/global_portfolio.php:1819 
+#: inc/tgmpa/acf-php/global_footer.php:201
+msgid "Center"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:106 
+#: inc/tgmpa/acf-php/project_settings.php:215 
+#: inc/tgmpa/acf-php/global_portfolio.php:1920
+msgid "Center - After description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:144
+msgid "Center bottom"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:143
+msgid "Center top"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:252 
+#: inc/tgmpa/acf-php/global_menu.php:239
+msgid "Centered"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:102 
+#: inc/tgmpa/acf-php/global_portfolio.php:97
+msgid "Centered with smooth scroll"
+msgstr ""
+
+#: coming-soon.php:9 inc/tgmpa/acf-php/global_other.php:115
+msgid "Check back for an update soon."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:32
+msgid "Check out all the available products in the shop."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:408
+msgid "Choose"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:194
+msgid "Choose a background for site pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:183
+msgid "Choose a hamburger menu position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:372
+msgid "Choose a hamburger menu social networks type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:42
+msgid "Choose a logo for this page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:131
+msgid "Choose a logo type for your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:237
+msgid "Choose a logo variant for the regular header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:264
+msgid "Choose a logo variant for the sticky header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:855
+msgid "Choose a navigation color for the portfolio slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:203
+msgid "Choose a showcase page for this project"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2271
+msgid "Choose an overlay color for the portfolio slider image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:30 
+#: inc/tgmpa/acf-php/global_portfolio.php:662
+msgid "Choose background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:255
+msgid "Choose background color for a hamburger menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1047
+msgid "Choose background color for notification"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1029
+msgid "Choose background color for notification button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1174 
+#: inc/tgmpa/acf-php/global_page.php:317
+msgid "Choose background overlay color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:36 inc/tgmpa/acf-php/global_blog.php:36
+msgid "Choose blog grid layout type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:240 
+#: inc/tgmpa/acf-php/global_blog.php:253
+msgid "Choose blog items appear effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:625 
+#: inc/tgmpa/acf-php/global_header.php:354 
+#: inc/tgmpa/acf-php/global_header.php:543
+msgid "Choose border color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:588 
+#: inc/tgmpa/acf-php/global_header.php:322 
+#: inc/tgmpa/acf-php/global_header.php:511
+msgid "Choose border line style"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1364 
+#: inc/tgmpa/acf-php/global_page.php:601
+msgid "Choose breadcrumbs bar background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1380 
+#: inc/tgmpa/acf-php/global_page.php:640
+msgid "Choose breadcrumbs typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:954
+msgid "Choose bullets color for the portfolio slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:924
+msgid "Choose bullets or number pagination"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:450 
+#: inc/tgmpa/acf-php/global_portfolio.php:2109
+msgid "Choose bullets or number pagination on the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:830
+msgid "Choose button background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:811
+msgid "Choose button text color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1154 
+#: inc/tgmpa/acf-php/global_portfolio.php:1690
+msgid "Choose category filter accent typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1173
+msgid "Choose category filter position for portfolio page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1707
+msgid "Choose category filter position for portfolio pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1135 
+#: inc/tgmpa/acf-php/global_portfolio.php:1673
+msgid "Choose category filter typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:527
+msgid "Choose color for header items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:318
+msgid "Choose color for navigation buttons"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:446
+msgid "Choose color for preloader shape"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:408
+msgid "Choose color for slider bullets"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:752
+msgid "Choose color for the fixed search"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2492
+msgid "Choose color for the lightbox trigger icon"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:321
+msgid "Choose color for the search icon"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:567
+msgid "Choose color mode switcher position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:642
+msgid "Choose color overlay for main image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:58
+msgid "Choose coming soon page background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1493
+msgid "Choose content typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:316
+msgid "Choose copyright bar links color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:306
+msgid "Choose copyright bar typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:196
+msgid "Choose copyright content position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:639
+msgid "Choose custom cursor color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1075
+msgid "Choose custom subtitle type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:36
+msgid "Choose fonts source for your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1504 
+#: inc/tgmpa/acf-php/global_footer.php:108
+msgid "Choose footer background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:357
+msgid "Choose footer logo type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:71 inc/tgmpa/acf-php/global_menu.php:165 
+#: inc/tgmpa/acf-php/global_menu.php:487
+msgid "Choose from already pre-made menus"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:183 
+#: inc/tgmpa/acf-php/template_portfolio.php:352 
+#: inc/tgmpa/acf-php/template_blog.php:219 
+#: inc/tgmpa/acf-php/global_blog.php:233 
+#: inc/tgmpa/acf-php/global_portfolio.php:358
+msgid "Choose grid animation type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:320
+msgid "Choose grid layout type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:552
+msgid "Choose hamburger position for mobile menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:523 
+#: inc/tgmpa/acf-php/global_header.php:276
+msgid "Choose header background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:106 inc/tgmpa/acf-php/global_blog.php:84
+msgid "Choose hover effect type for blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:134
+msgid "Choose hover effect type for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:36
+msgid "Choose hover effect type for shop items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:134
+msgid "Choose hover type for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:144
+msgid "Choose image size for blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:112
+msgid "Choose image size for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:221 
+#: inc/tgmpa/acf-php/global_menu.php:213
+msgid "Choose layout type for a hamburger menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:50
+msgid "Choose layout type for page header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:36 
+#: inc/tgmpa/acf-php/global_portfolio.php:36
+msgid "Choose layout type for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:24
+msgid "Choose layout type for post pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:25
+msgid "Choose layout type for project page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1848
+msgid "Choose layout type for project pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:24 inc/tgmpa/acf-php/global_product.php:24
+msgid "Choose layout type for single product pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:362
+msgid "Choose loading image for website preloader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:84
+msgid "Choose logo image for this page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:229 
+#: inc/tgmpa/acf-php/global_portfolio.php:1990
+msgid "Choose main gallery scrolling effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:36
+msgid "Choose menu type for all pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:200
+msgid "Choose menu type of this page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:536
+msgid "Choose mobile header background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:344
+msgid "Choose out of stock tag background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:679
+msgid "Choose overlay background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1618
+msgid "Choose page for all portfolio projects"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1113 
+#: inc/tgmpa/acf-php/global_page.php:267
+msgid "Choose page headline content position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:409 
+#: inc/tgmpa/acf-php/global_blog.php:718
+msgid "Choose pagination layout for blog page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1211 
+#: inc/tgmpa/acf-php/global_portfolio.php:1744
+msgid "Choose pagination layout for portfolio page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:462
+msgid "Choose pagination layout for shop page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:481 
+#: inc/tgmpa/acf-php/global_blog.php:787
+msgid "Choose pagination position for blog page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1283 
+#: inc/tgmpa/acf-php/global_portfolio.php:1814
+msgid "Choose pagination position for portfolio page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:531
+msgid "Choose pagination position for shop page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:457 
+#: inc/tgmpa/acf-php/global_blog.php:764
+msgid "Choose pagination size for blog page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1259 
+#: inc/tgmpa/acf-php/global_portfolio.php:1791
+msgid "Choose pagination size for portfolio page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:508
+msgid "Choose pagination size for shop page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:433 
+#: inc/tgmpa/acf-php/global_blog.php:741
+msgid "Choose pagination type for blog page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1235 
+#: inc/tgmpa/acf-php/global_portfolio.php:1768
+msgid "Choose pagination type for portfolio page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:485
+msgid "Choose pagination type for shop page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:381
+msgid "Choose pop-up background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:688
+msgid "Choose portfolio details background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:403
+msgid "Choose portfolio items appear effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:408
+msgid "Choose portfolio items appearance effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:120
+msgid "Choose portfolio navigation type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:352 
+#: inc/tgmpa/acf-php/global_blog.php:383
+msgid "Choose post card background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:279
+msgid "Choose product card background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:203
+msgid "Choose product items appear effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:334
+msgid "Choose sale tag background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:727
+msgid "Choose scroll-to-top position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:294 
+#: inc/tgmpa/acf-php/global_menu.php:725
+msgid "Choose search icon position for all pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:698
+msgid "Choose search type for all pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1567
+msgid "Choose section background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1594
+msgid "Choose section content links color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1583
+msgid "Choose section content typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:337 
+#: inc/tgmpa/acf-php/global_portfolio.php:2385 
+#: inc/tgmpa/acf-php/global_product.php:296
+msgid "Choose sharing social networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1320 
+#: inc/tgmpa/acf-php/global_page.php:473
+msgid "Choose sidebar layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1295
+msgid "Choose sidebar placement for all pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:850
+msgid "Choose social network display position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:191
+msgid "Choose social networks color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:700
+msgid "Choose social networks to be displayed on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:786
+msgid "Choose social networks type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:465
+msgid "Choose sticky header background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:759 
+#: inc/tgmpa/acf-php/global_header.php:641
+msgid "Choose subheader background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:722
+msgid "Choose subheader style"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:370 
+#: inc/tgmpa/acf-php/global_blog.php:401 
+#: inc/tgmpa/acf-php/global_portfolio.php:710
+msgid "Choose text alignment for blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:297
+msgid "Choose text alignment for product items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:994
+msgid "Choose the background for page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1137
+msgid "Choose the background for page headline"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:287
+msgid "Choose the background for pages headline"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:529
+msgid "Choose the dark mode background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:46
+msgid "Choose the global accent color for a highlighted text"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:36
+msgid "Choose the global accent color for your site"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:100
+msgid "Choose the global borders color for your site"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:90
+msgid "Choose the global buttons color for your site"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:110
+msgid ""
+"Choose the global light background fill color for your site (e.g. comments, "
+"product details)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:66
+msgid "Choose the global links color (hover state) for your site"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:56
+msgid "Choose the global links color for your site"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:374
+msgid "Choose the layout type for page header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:259
+msgid "Choose the number of post items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:93
+msgid "Choose the number of product images for single product gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:127
+msgid "Choose the number of product items per page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:151
+msgid "Choose the number of product items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:81
+msgid "Choose the project date"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:955 
+#: inc/tgmpa/acf-php/template_portfolio.php:1089 
+#: inc/tgmpa/acf-php/global_portfolio.php:1321 
+#: inc/tgmpa/acf-php/global_portfolio.php:2352
+msgid "Choose video button color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1066 
+#: inc/tgmpa/acf-php/global_portfolio.php:2330
+msgid "Choose video button size"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:900 
+#: inc/tgmpa/acf-php/project_settings.php:923 
+#: inc/tgmpa/acf-php/template_portfolio.php:1043 
+#: inc/tgmpa/acf-php/global_portfolio.php:1261 
+#: inc/tgmpa/acf-php/global_portfolio.php:1291 
+#: inc/tgmpa/acf-php/global_portfolio.php:2308
+msgid "Choose video button style"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1610
+msgid "Choose widget logo type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:231
+msgid "Choose widget title typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:87 
+#: inc/tgmpa/acf-php/project_settings.php:196 
+#: inc/tgmpa/acf-php/global_ecommerce.php:606 
+#: inc/tgmpa/acf-php/global_portfolio.php:1634 
+#: inc/tgmpa/acf-php/global_portfolio.php:1916
+msgid "Choose WPBakery/Elementor builders content position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:382
+msgid "Circle spinner"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:325
+msgid "Classic"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:46 
+#: inc/tgmpa/acf-php/global_portfolio.php:1864
+msgid "Classic - Bottom Gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:36 inc/tgmpa/acf-php/product.php:35 
+#: inc/tgmpa/acf-php/global_portfolio.php:1854 
+#: inc/tgmpa/acf-php/global_product.php:30
+msgid "Classic - Left Gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:41 inc/tgmpa/acf-php/product.php:40 
+#: inc/tgmpa/acf-php/global_portfolio.php:1859 
+#: inc/tgmpa/acf-php/global_product.php:35
+msgid "Classic - Right Gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:47 
+#: inc/tgmpa/acf-php/template_blog.php:47 inc/tgmpa/acf-php/global_blog.php:42 
+#: inc/tgmpa/acf-php/global_portfolio.php:42
+msgid "Classic grid"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:377
+msgid "Classic spinner"
+msgstr ""
+
+#: parts/portfolio_grid/lightbox.php:117 inc/tgmpa/acf-php/project.php:132 
+#: parts/portfolio/components/options_group.php:22
+msgid "Client"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:654
+msgid "Close link typography"
+msgstr ""
+
+#. Author of the theme
+msgid "Colabrio"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:501 
+#: inc/tgmpa/acf-php/_group_page_options.php:134
+msgid "Color Mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:536 
+#: inc/tgmpa/acf-php/_group_page_options.php:160
+msgid "Color mode switcher"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:550
+msgid "Color mode switcher on mobile"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:564
+msgid "Color mode switcher position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:18
+msgid "Color only"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:10
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:21
+msgid "Coming soon mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:55
+msgid "Coming soon page background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:101
+msgid "Coming soon page details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:79
+msgid "Coming soon page heading"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#. %1: count comments
+#: comments.php:28 parts/elements/page_headline.php:90
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/acf-php/template_blog.php:67 inc/tgmpa/acf-php/global_blog.php:62
+msgid "Compact grid"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:415 inc/tgmpa/ocdi_setup.php:426 
+#: inc/tgmpa/ocdi_setup.php:437 inc/tgmpa/ocdi_setup.php:448 
+#: inc/tgmpa/ocdi_setup.php:459 inc/tgmpa/ocdi_setup.php:470
+msgid "Contact"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:408
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:93
+msgid "Contain"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:262 
+#: inc/tgmpa/acf-php/template_portfolio.php:529 
+#: inc/tgmpa/acf-php/template_blog.php:329 
+#: inc/tgmpa/acf-php/global_blog.php:358 
+#: inc/tgmpa/acf-php/global_portfolio.php:575
+msgid "Contained layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:349 
+#: inc/tgmpa/acf-php/global_blog.php:380 
+#: inc/tgmpa/acf-php/global_portfolio.php:659
+msgid "Contained layout background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:367 
+#: inc/tgmpa/acf-php/global_blog.php:398 
+#: inc/tgmpa/acf-php/global_portfolio.php:707
+msgid "Content alignment"
+msgstr ""
+
+#: inc/wp_overrides.php:342
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:304
+msgid "Convert blog images to a square"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:339
+msgid "Convert post image to a square"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:479 
+#: inc/tgmpa/acf-php/global_portfolio.php:531
+msgid "Convert project images to a square"
+msgstr ""
+
+#: woocommerce/share.php:91
+msgid "copy"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1538 
+#: inc/tgmpa/acf-php/global_footer.php:168
+msgid "Copyright Bar"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:179
+msgid "Copyright bar"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1564 
+#: inc/tgmpa/acf-php/global_footer.php:281
+msgid "Copyright bar background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:215
+msgid "Copyright bar content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:193
+msgid "Copyright bar content position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:237 
+#: inc/tgmpa/acf-php/global_footer.php:259
+msgid "Copyright bar element"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:313
+msgid "Copyright bar links color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:303
+msgid "Copyright bar typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1544
+msgid "Copyright section"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1591
+msgid "Copyright section links color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1580
+msgid "Copyright section text typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:123
+msgid "Countdown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:145
+msgid "Countdown expiration date"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:259
+msgid "Countdown typography"
+msgstr ""
+
+#: woocommerce/cart/cart.php:137 woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:92
+msgid "Cover"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:49
+msgid "Create an account?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:63
+msgid "Create and paste your"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:257 
+#: inc/tgmpa/acf-php/global_menu.php:244
+msgid "Creative"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:176
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:636
+msgid "Cursor color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:43
+msgid "Cursor selection color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:491 
+#: inc/tgmpa/acf-php/_group_page_options.php:728 
+#: inc/tgmpa/acf-php/_group_page_options.php:1216
+msgid "Custom"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:84 
+#: inc/tgmpa/acf-php/project_settings.php:193 
+#: inc/tgmpa/acf-php/global_ecommerce.php:603 
+#: inc/tgmpa/acf-php/global_portfolio.php:1631 
+#: inc/tgmpa/acf-php/global_portfolio.php:1913
+msgid "Custom content position"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:96 inc/tgmpa/acf-php/_group_page_options.php:1678 
+#: inc/tgmpa/acf-php/global_custom_css.php:5
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1701 
+#: inc/tgmpa/acf-php/global_custom_css.php:33
+msgid "Custom CSS styles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:622
+msgid "Custom cursor"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:146 inc/tgmpa/acf-php/project.php:149
+msgid "Custom fields"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:52
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:154
+msgid "Custom fonts list"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:279 
+#: inc/tgmpa/acf-php/global_general.php:407 
+#: inc/tgmpa/acf-php/_group_page_options.php:50 
+#: inc/tgmpa/acf-php/_group_page_options.php:1618
+msgid "Custom image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:364
+msgid "Custom loaded image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:81
+msgid "Custom logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1654
+msgid "Custom logo image in footer"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:416
+msgid "Custom preloader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1635
+msgid "Custom settings for footer site name"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1099
+msgid "Custom subtitle text"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:65
+msgid "Custom typography options for text logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:381
+msgid "Custom typography settings for site name"
+msgstr ""
+
+#: parts/elements/light_dark_switcher.php:15 
+#: parts/elements/light_dark_switcher.php:29
+msgid "Dark"
+msgstr ""
+
+#: inc/init/theme.php:64
+msgid "Dark Light"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:512 
+#: inc/tgmpa/acf-php/_group_page_options.php:140
+msgid "Dark mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:526
+msgid "Dark mode background color"
+msgstr ""
+
+#: inc/init/theme.php:59
+msgid "Dark Strong"
+msgstr ""
+
+#: woocommerce/myaccount/navigation.php:28
+msgid "Dashboard"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:606 
+#: inc/tgmpa/acf-php/global_header.php:335 
+#: inc/tgmpa/acf-php/global_header.php:524
+msgid "Dashed"
+msgstr ""
+
+#: parts/portfolio_grid/lightbox.php:46
+msgid "data-clb-portfolio-lightbox-slider"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:62 inc/tgmpa/acf-php/project.php:78 
+#: inc/tgmpa/acf-php/global_portfolio.php:1377
+msgid "Date"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1419
+msgid "Date typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:566 
+#: inc/tgmpa/acf-php/global_other.php:1082
+msgid "days"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:905 
+#: inc/tgmpa/acf-php/project_settings.php:928 
+#: inc/tgmpa/acf-php/global_ecommerce.php:489 
+#: inc/tgmpa/acf-php/global_ecommerce.php:512 
+#: inc/tgmpa/acf-php/template_portfolio.php:1048 
+#: inc/tgmpa/acf-php/template_portfolio.php:1071 
+#: inc/tgmpa/acf-php/template_portfolio.php:1240 
+#: inc/tgmpa/acf-php/template_portfolio.php:1264 
+#: inc/tgmpa/acf-php/template_blog.php:438 
+#: inc/tgmpa/acf-php/template_blog.php:462 
+#: inc/tgmpa/acf-php/global_blog.php:745 inc/tgmpa/acf-php/global_blog.php:768 
+#: inc/tgmpa/acf-php/global_portfolio.php:1273 
+#: inc/tgmpa/acf-php/global_portfolio.php:1303 
+#: inc/tgmpa/acf-php/global_portfolio.php:1772 
+#: inc/tgmpa/acf-php/global_portfolio.php:1795 
+#: inc/tgmpa/acf-php/global_portfolio.php:2312 
+#: inc/tgmpa/acf-php/global_portfolio.php:2334
+msgid "Default"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:146
+msgid "Default - 1 column width"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:823 
+#: inc/tgmpa/acf-php/product.php:84
+msgid "Default - 1-column wide"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:182
+msgid "Default site logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:249 
+#: inc/tgmpa/acf-php/global_general.php:277 
+#: inc/tgmpa/acf-php/_group_page_options.php:47
+msgid "Default variant"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1616 
+#: inc/tgmpa/acf-php/global_footer.php:361
+msgid "Default variant logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:223
+msgid "Default, scrolling image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:486
+msgid "Define custom header styles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:872
+msgid "Define side margins for full-width page container"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:223
+msgid "Description"
+msgstr ""
+
+#: parts/portfolio_grid/lightbox.php:110 inc/tgmpa/acf-php/project.php:118 
+#: parts/portfolio/components/options_group.php:15
+msgid "Design"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_custom_css.php:56
+msgid "Desktop devices"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:618
+msgid "Details typography"
+msgstr ""
+
+#: parts/elements/social_bar.php:48
+msgid "Dev."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:160 inc/tgmpa/acf-php/global_other.php:728
+msgid "DeviantArt"
+msgstr ""
+
+#: parts/elements/social_bar.php:57
+msgid "Dg."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:161 inc/tgmpa/acf-php/global_other.php:729
+msgid "Digg"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:719
+msgid "Direction"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:514 
+#: inc/tgmpa/acf-php/project_settings.php:561 
+#: inc/tgmpa/acf-php/project_settings.php:629
+msgid "Disable"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:187 
+#: inc/tgmpa/acf-php/template_portfolio.php:385 
+#: inc/tgmpa/acf-php/template_blog.php:224 
+#: inc/tgmpa/acf-php/global_blog.php:237 
+#: inc/tgmpa/acf-php/global_portfolio.php:390
+msgid "Disable animation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1302 
+#: inc/tgmpa/acf-php/global_page.php:453
+msgid "Disable sidebar"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:844
+msgid "Disable wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:162 inc/tgmpa/acf-php/global_other.php:730
+msgid "Discord"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:472 
+#: inc/tgmpa/acf-php/global_other.php:810 
+#: inc/tgmpa/acf-php/global_other.php:1062
+msgid "Display Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:432 
+#: inc/tgmpa/acf-php/_group_page_options.php:452
+msgid "Do not add spacer"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1905
+msgid "Do not forget to rebuild"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:607 
+#: inc/tgmpa/acf-php/global_header.php:336 
+#: inc/tgmpa/acf-php/global_header.php:525
+msgid "Dotted"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:608 
+#: inc/tgmpa/acf-php/global_header.php:337 
+#: inc/tgmpa/acf-php/global_header.php:526
+msgid "Double"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:392
+msgid "Double bounce"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:819
+msgid "Double the width of this post item"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:80
+msgid "Double the width of this product"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:139 
+#: inc/tgmpa/acf-php/_group_page_options.php:816 
+#: inc/tgmpa/acf-php/product.php:77
+msgid "Double width"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:233
+msgid "Down one"
+msgstr ""
+
+#: parts/elements/social_bar.php:75
+msgid "Dr."
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:922 
+#: inc/tgmpa/acf-php/global_portfolio.php:1135
+msgid "Drag scroll"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:163 inc/tgmpa/acf-php/global_other.php:731
+msgid "Dribbble"
+msgstr ""
+
+#: parts/elements/social_bar.php:66
+msgid "Ds."
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:649
+msgid "Dynamically change header elements color for dark/light sections"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:836
+msgid "Dynamically change header elements color for dark/light sections "
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:337
+msgid ""
+"Dynamically change page elements color for a dark footer (social networks, "
+"back link)"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:65
+msgid "Edit"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:136 
+#: inc/menu/edit_mega_menu_walker.php:142
+msgid "Edit Menu Item"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1014 
+#: inc/tgmpa/acf-php/global_blog.php:421 
+#: inc/tgmpa/acf-php/global_portfolio.php:1237
+msgid "Elements"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:646 
+#: inc/tgmpa/acf-php/global_header.php:833 
+#: inc/tgmpa/acf-php/global_footer.php:334
+msgid "Elements dynamic colors for dark/light mode"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96 woocommerce/share.php:71 
+#: woocommerce/share.php:72 woocommerce/checkout/thankyou.php:68
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:103
+msgid "Email address"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:513 
+#: inc/tgmpa/acf-php/project_settings.php:560 
+#: inc/tgmpa/acf-php/project_settings.php:628
+msgid "Enable"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:776
+msgid "Enable a custom button in the main menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:800 
+#: inc/tgmpa/acf-php/global_portfolio.php:1023 
+#: inc/tgmpa/acf-php/global_portfolio.php:2844
+msgid "Enable autoplay mode for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:527 
+#: inc/tgmpa/acf-php/global_portfolio.php:2176
+msgid "Enable autoplay mode for the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:163
+msgid "Enable color mode switcher for this page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:539
+msgid "Enable color mode switcher for your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:553
+msgid "Enable color mode switcher on mobile"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:24
+msgid ""
+"Enable coming soon mode for your website. Users won't be able to access the "
+"site's content and will see the coming soon page only"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:749
+msgid "Enable currency switcher in subheader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:625
+msgid "Enable custom cursor for your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:143
+msgid "Enable dark color scheme for this page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:515
+msgid "Enable dark color scheme for your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:925 
+#: inc/tgmpa/acf-php/global_portfolio.php:1138
+msgid "Enable drag scroll for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:426 
+#: inc/tgmpa/acf-php/global_header.php:105
+msgid "Enable fixed position for the header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:235
+msgid "Enable fullscreen height for page headline?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:771
+msgid "Enable language switcher in subheader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2426
+msgid "Enable lightbox preview for portfolio projects"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:86
+msgid "Enable lightbox preview for product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:757 
+#: inc/tgmpa/acf-php/global_portfolio.php:976 
+#: inc/tgmpa/acf-php/global_portfolio.php:2822
+msgid "Enable loop mode for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:480 
+#: inc/tgmpa/acf-php/global_portfolio.php:2139
+msgid "Enable loop mode for the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:882 
+#: inc/tgmpa/acf-php/global_portfolio.php:1091
+msgid "Enable mouse wheel scroll for portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:595 
+#: inc/tgmpa/acf-php/global_portfolio.php:2234
+msgid "Enable mouse wheel scroll for the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2887
+msgid "Enable mouse wheel scrollfor portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:988
+msgid "Enable notification button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:947
+msgid "Enable notification link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:913
+msgid "Enable notification on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:628
+msgid ""
+"Enable one page menu? Handle anchor links as section scroll trigger. Read"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:513
+msgid "Enable opening of the 1st level menu items as regular links"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:348
+msgid "Enable preloader animation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:117
+msgid "Enable preloader for this page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:55
+msgid "Enable product gallery images zoom effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:320
+msgid "Enable quickview feature on product items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:323
+msgid "Enable sharing feature for post pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:284
+msgid "Enable sharing feature for product pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2371
+msgid "Enable sharing feature for project pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:449
+msgid "Enable sidebar on all pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:388
+msgid "Enable sticky header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:402
+msgid "Enable sticky header on mobile devices"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:676
+msgid "Enable sticky header, which is fixed at the top as you scroll"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:99 inc/tgmpa/acf-php/global_product.php:100
+msgid "Enable sticky product for product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:367
+msgid "Enable subscribe pop-up"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:183
+msgid "Enable tilt hover effect for portfolio items"
+msgstr ""
+
+#: inc/menu/mega_menu.php:65 inc/menu/mega_menu.php:105
+msgid "Enable wide menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:653
+msgid "Enable WPML language switcher"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:843
+msgid "Enable wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2725
+msgid "Enter a custom value for project link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:439 
+#: inc/tgmpa/acf-php/global_blog.php:649 
+#: inc/tgmpa/acf-php/global_portfolio.php:1597
+msgid "Enter custom text for breadcrumbs slug"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:453
+msgid "Enter details about subscription terms"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:82
+msgid "Enter heading for the coming soon page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:148
+msgid "Enter the date when site will be online"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:150
+msgid "Enter the title text for your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:476 
+#: inc/tgmpa/acf-php/template_blog.php:301 
+#: inc/tgmpa/acf-php/global_blog.php:336 
+#: inc/tgmpa/acf-php/global_portfolio.php:528
+msgid "Equal height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:603
+msgid "et up typography styles for subscribe pop-up heading"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:10 inc/tgmpa/acf-php/global_blog.php:519 
+#: inc/tgmpa/acf-php/global_portfolio.php:1437
+msgid "Excerpt"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:533 
+#: inc/tgmpa/acf-php/global_portfolio.php:1474
+msgid "Excerpt length"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:553 
+#: inc/tgmpa/acf-php/global_portfolio.php:1495
+msgid "Excerpt typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:504
+msgid "Exit intent"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:561 
+#: inc/tgmpa/acf-php/global_other.php:1077
+msgid "Expires"
+msgstr ""
+
+#: inc/init/theme.php:99
+msgid "Extra Large"
+msgstr ""
+
+#: inc/init/theme.php:79
+msgid "Extra Small"
+msgstr ""
+
+#: woocommerce/share.php:47 woocommerce/share.php:48 
+#: inc/framework/components/object_parser.php:454 
+#: inc/tgmpa/acf-php/global_post.php:164 inc/tgmpa/acf-php/global_post.php:341 
+#: inc/tgmpa/acf-php/global_portfolio.php:2397 
+#: inc/tgmpa/acf-php/global_product.php:308 
+#: inc/tgmpa/acf-php/global_other.php:732
+msgid "Facebook"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:482
+msgid "Fade in animation on page load"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:216 
+#: inc/tgmpa/acf-php/template_portfolio.php:446 
+#: inc/tgmpa/acf-php/template_blog.php:245 
+#: inc/tgmpa/acf-php/global_blog.php:266 
+#: inc/tgmpa/acf-php/global_portfolio.php:446
+msgid "Fade left"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:217 
+#: inc/tgmpa/acf-php/template_portfolio.php:447 
+#: inc/tgmpa/acf-php/template_blog.php:246 
+#: inc/tgmpa/acf-php/global_blog.php:267 
+#: inc/tgmpa/acf-php/global_portfolio.php:447
+msgid "Fade right"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:215 
+#: inc/tgmpa/acf-php/template_portfolio.php:445 
+#: inc/tgmpa/acf-php/template_blog.php:244 
+#: inc/tgmpa/acf-php/global_blog.php:265 
+#: inc/tgmpa/acf-php/global_portfolio.php:445
+msgid "Fade up"
+msgstr ""
+
+#: parts/elements/social_bar.php:84
+msgid "Fb."
+msgstr ""
+
+#: parts/blog_grid/layout_type4.php:125 parts/blog_grid/layout_type5.php:128 
+#: parts/blog_grid/layout_type6.php:131 parts/blog_grid/layout_type2.php:128 
+#: parts/blog_grid/layout_type3.php:128 parts/blog_grid/layout_type1.php:128
+msgid "Featured"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:44 
+#: inc/tgmpa/acf-php/global_portfolio.php:1946 
+#: inc/tgmpa/acf-php/global_portfolio.php:2470
+msgid "Featured image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:54
+msgid "Featured image in the lightbox"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:107
+msgid "Fill background color"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:400 parts/elements/breadcrumbs.php:462
+msgid "Filter"
+msgstr ""
+
+#: page_templates/page_for-projects.php:302
+msgid "Filter by"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:429
+msgid "Filter by category"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:444
+msgid "Filter by tag"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:307 
+#: inc/tgmpa/acf-php/global_menu.php:738
+msgid "Fixed position"
+msgstr ""
+
+#: parts/elements/social_bar.php:93
+msgid "Fl."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:165 inc/tgmpa/acf-php/global_other.php:733
+msgid "Flickr"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:449
+msgid "Flip down"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:219 
+#: inc/tgmpa/acf-php/template_portfolio.php:450 
+#: inc/tgmpa/acf-php/template_blog.php:248 
+#: inc/tgmpa/acf-php/global_blog.php:269 
+#: inc/tgmpa/acf-php/global_portfolio.php:449
+msgid "Flip up"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:397
+msgid "Folding cube"
+msgstr ""
+
+#: parts/elements/social_bar.php:22
+msgid "Follow Us"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:104
+msgid "Font family"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:181
+msgid "Font family (name)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:234
+msgid "Font style"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:123
+msgid "Font styles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:200
+msgid "Font weight"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:301
+msgid "Fonts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:33
+msgid "Fonts source"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:89 inc/tgmpa/acf-php/_group_page_options.php:1433 
+#: inc/tgmpa/acf-php/_group_page_options.php:1450 
+#: inc/tgmpa/acf-php/global_footer.php:33
+msgid "Footer"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1501 
+#: inc/tgmpa/acf-php/global_footer.php:105
+msgid "Footer background"
+msgstr ""
+
+#: inc/sidebars.php:25
+msgid "Footer column 1"
+msgstr ""
+
+#: inc/sidebars.php:32
+msgid "Footer column 2"
+msgstr ""
+
+#: inc/sidebars.php:39
+msgid "Footer column 3"
+msgstr ""
+
+#: inc/sidebars.php:46
+msgid "Footer column 4"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1651
+msgid "Footer custom logo image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:342
+msgid "Footer JavaScript injection"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:5
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:83
+msgid "Footer side margins"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1607 
+#: inc/tgmpa/acf-php/global_footer.php:354
+msgid "Footer site logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1632
+msgid "Footer site name settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1490
+msgid "Footer typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:150
+msgid "Footer widget content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:141
+msgid "Footer widget headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:159
+msgid "Footer widget links"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1470 
+#: inc/tgmpa/acf-php/global_footer.php:47
+msgid "Footer wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:61
+msgid "Footer wrapper width"
+msgstr ""
+
+#. Name of the template
+msgid "For page builder"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:408
+msgid "form for subscribtion"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:636
+msgid "Form typography"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:542
+msgid "Forms"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:625 
+#: inc/tgmpa/acf-php/global_portfolio.php:763
+msgid "Fullscreen mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:226 
+#: inc/tgmpa/acf-php/global_portfolio.php:1987
+msgid "Gallery scrolling effect"
+msgstr ""
+
+#: inc/framework/components/helper.php:212
+msgid "Gallery slide"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:52
+msgid "Gallery zoom effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:10 
+#: inc/tgmpa/acf-php/_group_page_options.php:191 
+#: inc/tgmpa/acf-php/_group_page_options.php:347 
+#: inc/tgmpa/acf-php/_group_page_options.php:810 
+#: inc/tgmpa/acf-php/_group_page_options.php:1444 
+#: inc/tgmpa/acf-php/product.php:10 inc/tgmpa/acf-php/global_post.php:10 
+#: inc/tgmpa/acf-php/global_ecommerce.php:10 
+#: inc/tgmpa/acf-php/global_custom_css.php:10 
+#: inc/tgmpa/acf-php/template_portfolio.php:10 
+#: inc/tgmpa/acf-php/template_blog.php:10 inc/tgmpa/acf-php/global_page.php:10 
+#: inc/tgmpa/acf-php/global_typography.php:10 
+#: inc/tgmpa/acf-php/global_header.php:10 inc/tgmpa/acf-php/global_blog.php:10 
+#: inc/tgmpa/acf-php/global_portfolio.php:10 
+#: inc/tgmpa/acf-php/global_menu.php:10 
+#: inc/tgmpa/acf-php/global_product.php:10 
+#: inc/tgmpa/acf-php/global_footer.php:10
+msgid "General"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:5
+msgid "General Settings"
+msgstr ""
+
+#: parts/elements/social_bar.php:102
+msgid "Gh."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:166 inc/tgmpa/acf-php/global_other.php:734
+msgid "GitHub"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:16 
+#: inc/tgmpa/acf-php/template_portfolio.php:27 
+#: inc/tgmpa/acf-php/template_blog.php:27
+msgid "Global Theme Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:352
+msgid "Go back button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:366
+msgid "Go back button text"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1229 
+#: inc/tgmpa/acf-php/global_page.php:394
+msgid "Go back button typography"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:42 woocommerce/myaccount/orders.php:107 
+#: woocommerce/cart/cart-empty.php:35
+msgid "Go Shoping"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:128
+msgid "Good"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:42
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:288
+msgid "Google Maps"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:294
+msgid "Google Maps API key"
+msgstr ""
+
+#: inc/init/theme.php:69
+msgid "Grey Strong"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:294
+msgid "Grid alignment"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:180 
+#: inc/tgmpa/acf-php/template_portfolio.php:349 
+#: inc/tgmpa/acf-php/template_blog.php:216 
+#: inc/tgmpa/acf-php/global_blog.php:230 
+#: inc/tgmpa/acf-php/global_portfolio.php:355
+msgid "Grid animation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:200 
+#: inc/tgmpa/acf-php/template_portfolio.php:400 
+#: inc/tgmpa/acf-php/template_blog.php:237 
+#: inc/tgmpa/acf-php/global_blog.php:250 
+#: inc/tgmpa/acf-php/global_portfolio.php:405
+msgid "Grid animation effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:234 
+#: inc/tgmpa/acf-php/global_blog.php:284 
+#: inc/tgmpa/acf-php/global_portfolio.php:464
+msgid "Grid animation repeat"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:160 
+#: inc/tgmpa/acf-php/template_portfolio.php:314 
+#: inc/tgmpa/acf-php/template_blog.php:210 
+#: inc/tgmpa/acf-php/global_blog.php:224 
+#: inc/tgmpa/acf-php/global_portfolio.php:320
+msgid "Grid Appear Effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:206 
+#: inc/tgmpa/acf-php/global_menu.php:41 inc/tgmpa/acf-php/global_menu.php:147 
+#: inc/tgmpa/acf-php/global_menu.php:162
+msgid "Hamburger menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:252
+msgid "Hamburger menu background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:291
+msgid "Hamburger menu details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:336
+msgid "Hamburger menu details typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:218 
+#: inc/tgmpa/acf-php/global_menu.php:210
+msgid "Hamburger menu layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:180
+msgid "Hamburger menu position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:346
+msgid "Hamburger menu social networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:369
+msgid "Hamburger menu social networks type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:401
+msgid "Hamburger menu social networks typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:441
+msgid "Hamburger menu typography"
+msgstr ""
+
+#: inc/enqueue.php:130
+msgid "has been added to the cart"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:52
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:33 inc/tgmpa/acf-php/_group_page_options.php:336 
+#: inc/tgmpa/acf-php/_group_page_options.php:353 
+#: inc/tgmpa/acf-php/global_header.php:33
+msgid "Header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:520 
+#: inc/tgmpa/acf-php/global_header.php:273
+msgid "Header background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:443 
+#: inc/tgmpa/acf-php/global_header.php:143
+msgid "Header blank spacer"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:563 
+#: inc/tgmpa/acf-php/global_header.php:297
+msgid "Header border"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:351
+msgid "Header border color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:319
+msgid "Header border type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:423 
+#: inc/tgmpa/acf-php/global_header.php:102
+msgid "Header fixed position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:502 
+#: inc/tgmpa/acf-php/global_header.php:245
+msgid "Header height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:331
+msgid "Header JavaScript injection"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:371 
+#: inc/tgmpa/acf-php/global_header.php:47
+msgid "Header layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:5
+msgid "Header Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:218
+msgid "Header side margins"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:483
+msgid "Header styles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:544
+msgid "Header typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:463 
+#: inc/tgmpa/acf-php/global_header.php:169
+msgid "Header wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:191
+msgid "Header wrapper width"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:600
+msgid "Heading typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:322
+msgid "Headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:332 
+#: inc/tgmpa/acf-php/global_typography.php:422
+msgid "Headings H1"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:342 
+#: inc/tgmpa/acf-php/global_typography.php:431
+msgid "Headings H2"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:352 
+#: inc/tgmpa/acf-php/global_typography.php:440
+msgid "Headings H3"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:362 
+#: inc/tgmpa/acf-php/global_typography.php:449
+msgid "Headings H4"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:372 
+#: inc/tgmpa/acf-php/global_typography.php:458
+msgid "Headings H5"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:382 
+#: inc/tgmpa/acf-php/global_typography.php:467
+msgid "Headings H6"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:518 
+#: inc/tgmpa/acf-php/global_other.php:540
+msgid "Here goes a description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:305 
+#: inc/tgmpa/acf-php/project_settings.php:394 
+#: inc/tgmpa/acf-php/_group_page_options.php:708 
+#: inc/tgmpa/acf-php/_group_page_options.php:1023 
+#: inc/tgmpa/acf-php/_group_page_options.php:1350 
+#: inc/tgmpa/acf-php/_group_page_options.php:1458 
+#: inc/tgmpa/acf-php/_group_page_options.php:1553 
+#: inc/tgmpa/acf-php/product.php:66 inc/tgmpa/acf-php/product.php:103 
+#: inc/tgmpa/acf-php/product.php:118 inc/tgmpa/acf-php/product.php:133 
+#: inc/tgmpa/acf-php/product.php:148 inc/tgmpa/acf-php/product.php:163 
+#: inc/tgmpa/acf-php/product.php:179 
+#: inc/tgmpa/acf-php/template_portfolio.php:189 
+#: inc/tgmpa/acf-php/template_portfolio.php:657 
+#: inc/tgmpa/acf-php/template_portfolio.php:700 
+#: inc/tgmpa/acf-php/template_portfolio.php:743 
+#: inc/tgmpa/acf-php/template_portfolio.php:786 
+#: inc/tgmpa/acf-php/template_portfolio.php:829 
+#: inc/tgmpa/acf-php/template_portfolio.php:911 
+#: inc/tgmpa/acf-php/template_portfolio.php:954 
+#: inc/tgmpa/acf-php/template_portfolio.php:998 
+#: inc/tgmpa/acf-php/template_portfolio.php:1029 
+#: inc/tgmpa/acf-php/template_portfolio.php:1121 
+#: inc/tgmpa/acf-php/template_blog.php:290 
+#: inc/tgmpa/acf-php/template_blog.php:318 
+#: inc/tgmpa/acf-php/template_blog.php:338
+msgid "Hide"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:8 inc/tgmpa/ocdi_setup.php:19 
+#: inc/tgmpa/ocdi_setup.php:30 inc/tgmpa/ocdi_setup.php:41 
+#: inc/tgmpa/ocdi_setup.php:52 inc/tgmpa/ocdi_setup.php:63 
+#: inc/tgmpa/ocdi_setup.php:74 inc/tgmpa/ocdi_setup.php:85 
+#: inc/tgmpa/ocdi_setup.php:96 inc/tgmpa/ocdi_setup.php:107 
+#: inc/tgmpa/ocdi_setup.php:118 inc/tgmpa/ocdi_setup.php:129 
+#: inc/tgmpa/ocdi_setup.php:140 inc/tgmpa/ocdi_setup.php:151 
+#: inc/tgmpa/ocdi_setup.php:162 inc/tgmpa/ocdi_setup.php:173 
+#: inc/tgmpa/ocdi_setup.php:184 inc/tgmpa/ocdi_setup.php:195 
+#: inc/tgmpa/ocdi_setup.php:206 inc/tgmpa/ocdi_setup.php:217 
+#: inc/tgmpa/ocdi_setup.php:228 inc/tgmpa/ocdi_setup.php:239 
+#: inc/tgmpa/ocdi_setup.php:250 inc/tgmpa/ocdi_setup.php:261 
+#: inc/tgmpa/ocdi_setup.php:272 inc/tgmpa/ocdi_setup.php:283 
+#: inc/tgmpa/ocdi_setup.php:294 inc/tgmpa/ocdi_setup.php:305 
+#: inc/tgmpa/ocdi_setup.php:316 inc/tgmpa/ocdi_setup.php:327 
+#: inc/tgmpa/ocdi_setup.php:338 inc/tgmpa/ocdi_setup.php:524 
+#: parts/elements/breadcrumbs.php:68
+msgid "Home"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:574
+msgid "Home /"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1002 
+#: inc/tgmpa/acf-php/global_portfolio.php:1222
+msgid "Horizontal"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:697 
+#: inc/tgmpa/acf-php/global_header.php:739 
+#: inc/tgmpa/acf-php/global_menu.php:328 
+#: inc/tgmpa/acf-php/global_footer.php:253 
+#: inc/tgmpa/acf-php/global_footer.php:275
+msgid "HTML allowed"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://clbthemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "http://ohio.clbthemes.com/"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:799
+msgid "Icons"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:720
+msgid "If enabled, project categories are shown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:750
+msgid "If enabled, project date is shown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:780
+msgid "If enabled, project description is shown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:840
+msgid "If enabled, project details are shown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:870
+msgid "If enabled, project link is shown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:810
+msgid "If enabled, project task is shown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:690
+msgid "If enabled, project title is shown"
+msgstr ""
+
+#: parts/elements/social_bar.php:111
+msgid "Ig."
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:19
+msgid "Image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:204
+msgid "Image attachment"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:43 
+#: inc/tgmpa/acf-php/template_portfolio.php:175 
+#: inc/tgmpa/acf-php/template_blog.php:114 
+#: inc/tgmpa/acf-php/global_blog.php:91 
+#: inc/tgmpa/acf-php/global_portfolio.php:174
+msgid "Image Greyscale"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:136
+msgid "Image logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:42 
+#: inc/tgmpa/acf-php/template_portfolio.php:174 
+#: inc/tgmpa/acf-php/template_blog.php:113 
+#: inc/tgmpa/acf-php/global_blog.php:90 
+#: inc/tgmpa/acf-php/global_portfolio.php:173
+msgid "Image Overlay"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:113
+msgid "Image position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:161
+msgid "Image repeat type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:41 
+#: inc/tgmpa/acf-php/template_portfolio.php:173 
+#: inc/tgmpa/acf-php/template_blog.php:112 
+#: inc/tgmpa/acf-php/global_blog.php:89 
+#: inc/tgmpa/acf-php/global_portfolio.php:172
+msgid "Image Scaling"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:65
+msgid "Image size"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:99
+msgid "images"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:129
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/single-product/title.php:29
+msgid "In stock"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:62 inc/tgmpa/acf-php/global_blog.php:57
+msgid "Inner grid"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:167 inc/tgmpa/acf-php/global_other.php:735
+msgid "Instagram"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:92 
+#: inc/tgmpa/acf-php/global_portfolio.php:87
+msgid "Interactive links"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:208
+msgid "Inverse site logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:250 
+#: inc/tgmpa/acf-php/global_general.php:278 
+#: inc/tgmpa/acf-php/_group_page_options.php:48
+msgid "Inverse variant"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1615 
+#: inc/tgmpa/acf-php/global_footer.php:362
+msgid "Inverse variant logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:247
+msgid "Italic"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:684 
+#: inc/tgmpa/acf-php/global_header.php:726 
+#: inc/tgmpa/acf-php/global_menu.php:320
+msgid "Items list"
+msgstr ""
+
+#: parts/elements/page_headline.php:94
+msgid "Join the Conversation"
+msgstr ""
+
+#: parts/elements/social_bar.php:120
+msgid "Ka."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:168 inc/tgmpa/acf-php/global_other.php:736
+msgid "Kaggle"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:431 
+#: inc/tgmpa/acf-php/global_other.php:442
+msgid "Keep up with our daily and weekly newsletters"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:419
+msgid "Language switcher"
+msgstr ""
+
+#: inc/init/theme.php:94 inc/tgmpa/acf-php/project_settings.php:930 
+#: inc/tgmpa/acf-php/global_ecommerce.php:514 
+#: inc/tgmpa/acf-php/template_portfolio.php:1073 
+#: inc/tgmpa/acf-php/template_portfolio.php:1266 
+#: inc/tgmpa/acf-php/template_blog.php:464 
+#: inc/tgmpa/acf-php/global_blog.php:151 inc/tgmpa/acf-php/global_blog.php:770 
+#: inc/tgmpa/acf-php/global_portfolio.php:119 
+#: inc/tgmpa/acf-php/global_portfolio.php:1305 
+#: inc/tgmpa/acf-php/global_portfolio.php:1797 
+#: inc/tgmpa/acf-php/global_portfolio.php:2336
+msgid "Large"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:467 
+#: inc/tgmpa/acf-php/template_portfolio.php:1217 
+#: inc/tgmpa/acf-php/template_blog.php:415 
+#: inc/tgmpa/acf-php/global_blog.php:723 
+#: inc/tgmpa/acf-php/global_portfolio.php:1750
+msgid "Lazy load"
+msgstr ""
+
+#. %s: post title
+#: inc/template_tags.php:70
+msgid "Leave a Comment %1$s on %2$s"
+msgstr ""
+
+#: comments.php:54
+msgid "Leave a Reply"
+msgstr ""
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:77
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:117
+msgid "Leave empty to show all"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:89
+msgid "Leave empty to show all categories"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1118 
+#: inc/tgmpa/acf-php/_group_page_options.php:1300 
+#: inc/tgmpa/acf-php/global_ecommerce.php:301 
+#: inc/tgmpa/acf-php/global_ecommerce.php:535 
+#: inc/tgmpa/acf-php/template_portfolio.php:1186 
+#: inc/tgmpa/acf-php/template_portfolio.php:1288 
+#: inc/tgmpa/acf-php/template_blog.php:375 
+#: inc/tgmpa/acf-php/template_blog.php:486 
+#: inc/tgmpa/acf-php/global_page.php:271 inc/tgmpa/acf-php/global_page.php:454 
+#: inc/tgmpa/acf-php/global_blog.php:405 inc/tgmpa/acf-php/global_blog.php:791 
+#: inc/tgmpa/acf-php/global_portfolio.php:747 
+#: inc/tgmpa/acf-php/global_portfolio.php:1719 
+#: inc/tgmpa/acf-php/global_portfolio.php:1818 
+#: inc/tgmpa/acf-php/global_menu.php:556
+msgid "Left"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:142
+msgid "Left bottom"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:141
+msgid "Left center"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:579 
+#: inc/tgmpa/acf-php/global_page.php:739 inc/tgmpa/acf-php/global_other.php:854
+msgid "Left side"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:140
+msgid "Left top"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:798
+msgid "Letters"
+msgstr ""
+
+#: parts/elements/light_dark_switcher.php:21 
+#: parts/elements/light_dark_switcher.php:35
+msgid "Light"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2412 
+#: inc/tgmpa/acf-php/global_portfolio.php:2423
+msgid "Lightbox"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:83
+msgid "Lightbox preview"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2436
+msgid "Lightbox Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2760
+msgid "Lightbox Slider Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2489
+msgid "Lightbox trigger color"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:182
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: inc/framework/components/object_parser.php:461 
+#: inc/tgmpa/acf-php/global_post.php:169 inc/tgmpa/acf-php/global_post.php:343 
+#: inc/tgmpa/acf-php/global_portfolio.php:2400 
+#: inc/tgmpa/acf-php/global_product.php:311 
+#: inc/tgmpa/acf-php/global_other.php:737
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:137
+msgid "Links"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:53
+msgid "Links color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:63
+msgid "Links color (hover state)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:73
+msgid "Links underline"
+msgstr ""
+
+#: parts/elements/social_bar.php:129
+msgid "Lk."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:468 
+#: inc/tgmpa/acf-php/template_portfolio.php:1218 
+#: inc/tgmpa/acf-php/template_blog.php:416 
+#: inc/tgmpa/acf-php/global_blog.php:724 
+#: inc/tgmpa/acf-php/global_portfolio.php:1751
+msgid "Load more"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_logo_options.php:5
+msgid "Logo group"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:396
+msgid "Logo image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:348
+msgid "Logo Widget"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:477 
+#: inc/tgmpa/acf-php/template_portfolio.php:754 
+#: inc/tgmpa/acf-php/global_portfolio.php:973 
+#: inc/tgmpa/acf-php/global_portfolio.php:2136 
+#: inc/tgmpa/acf-php/global_portfolio.php:2819
+msgid "Loop mode"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+msgid "Lost your password?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_logo_options.php:10 
+#: inc/tgmpa/acf-php/_group_logo_options.php:67 
+#: inc/tgmpa/acf-php/_group_logo_options.php:124
+msgid "Main"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:600 
+#: inc/tgmpa/acf-php/global_portfolio.php:640
+msgid "Make all even grid items reversed"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:142
+msgid "Make double width for this portfolio item"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:324
+msgid "Masonry"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:105 
+#: inc/tgmpa/acf-php/template_blog.php:281
+msgid "Masonry layout"
+msgstr ""
+
+#: 404.php:10
+msgid "Maybe try a search?"
+msgstr ""
+
+#: parts/elements/social_bar.php:138
+msgid "Md."
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:24
+msgid "Media gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:170 inc/tgmpa/acf-php/global_blog.php:150 
+#: inc/tgmpa/acf-php/global_portfolio.php:118 
+#: inc/tgmpa/acf-php/global_other.php:738
+msgid "Medium"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:40 inc/tgmpa/acf-php/_group_page_options.php:180
+msgid "Menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:767
+msgid "Menu Button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:773
+msgid "Menu button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:787
+msgid "Menu button attributes"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:827
+msgid "Menu button background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:808
+msgid "Menu button color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:5
+msgid "Menu Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:197 
+#: inc/tgmpa/acf-php/global_menu.php:33
+msgid "Menu type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:71 inc/tgmpa/acf-php/global_menu.php:165 
+#: inc/tgmpa/acf-php/global_menu.php:487
+msgid "Menus"
+msgstr ""
+
+#: parts/elements/page_headline.php:187 parts/blog_grid/layout_type4.php:103 
+#: parts/blog_grid/layout_type5.php:106 parts/blog_grid/layout_type6.php:92 
+#: parts/blog_grid/layout_type2.php:106 parts/blog_grid/layout_type3.php:106 
+#: parts/blog_grid/layout_type1.php:106
+msgid "min read"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:52 
+#: inc/tgmpa/acf-php/template_blog.php:52 inc/tgmpa/acf-php/global_blog.php:47 
+#: inc/tgmpa/acf-php/global_portfolio.php:47
+msgid "Minimal grid"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:171 inc/tgmpa/acf-php/global_other.php:739
+msgid "Mixer"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:473
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:484
+msgid "Mobile menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:510
+msgid "Mobile menu 1st level items opening"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:533
+msgid "Mobile menu background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:524
+msgid "Mobile menu color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:549
+msgid "Mobile menu hamburger position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:494
+msgid "Mobile menu initial resolution"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:605
+msgid "Mobile menu typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_logo_options.php:48 
+#: inc/tgmpa/acf-php/_group_logo_options.php:105 
+#: inc/tgmpa/acf-php/_group_logo_options.php:162
+msgid "Mobile version"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:225
+msgid "More author settings you can find in"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:592 
+#: inc/tgmpa/acf-php/template_portfolio.php:879 
+#: inc/tgmpa/acf-php/global_portfolio.php:1088 
+#: inc/tgmpa/acf-php/global_portfolio.php:2231 
+#: inc/tgmpa/acf-php/global_portfolio.php:2884
+msgid "Mouse wheel scroll"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:152 inc/menu/edit_mega_menu_walker.php:231
+msgid "Move"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:134
+msgid "Move down"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:171
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:121
+msgid "Move up"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:875 
+#: inc/tgmpa/acf-php/global_portfolio.php:2880
+msgid "Ms"
+msgstr ""
+
+#: parts/elements/social_bar.php:147
+msgid "Mx."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:41
+msgid "My account"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:35 
+#: woocommerce/order/order-details-customer.php:55 
+#: woocommerce/single-product/meta.php:48 
+#: woocommerce/single-product/meta.php:52
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Name"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:117 
+#: inc/tgmpa/acf-php/project_settings.php:268 
+#: inc/tgmpa/acf-php/global_portfolio.php:2032 
+#: inc/tgmpa/acf-php/global_portfolio.php:2775
+msgid "Navigation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:315 
+#: inc/tgmpa/acf-php/global_portfolio.php:852
+msgid "Navigation color"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:158
+msgid "Navigation Label"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:668 
+#: inc/tgmpa/acf-php/global_portfolio.php:805
+msgid "Navigation visibility"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:74
+msgid "navigation?"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:97
+msgid "Next"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:126
+msgid "Next and preview"
+msgstr ""
+
+#: parts/elements/nav_posts.php:30
+msgid "Next Post"
+msgstr ""
+
+#: parts/elements/nav_products.php:23
+msgid "Next Product"
+msgstr ""
+
+#: parts/elements/nav_projects.php:17
+msgid "Next Project"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1932 
+#: inc/tgmpa/acf-php/global_product.php:111
+msgid "Next/Prev navigation"
+msgstr ""
+
+#: inc/menu/mega_menu.php:69 inc/menu/mega_menu.php:112 
+#: inc/tgmpa/acf-php/global_general.php:83 
+#: inc/tgmpa/acf-php/global_general.php:355 
+#: inc/tgmpa/acf-php/global_general.php:522 
+#: inc/tgmpa/acf-php/global_general.php:546 
+#: inc/tgmpa/acf-php/global_general.php:560 
+#: inc/tgmpa/acf-php/global_general.php:601 
+#: inc/tgmpa/acf-php/global_general.php:632 
+#: inc/tgmpa/acf-php/global_general.php:654 
+#: inc/tgmpa/acf-php/_group_page_options.php:123 
+#: inc/tgmpa/acf-php/_group_page_options.php:149 
+#: inc/tgmpa/acf-php/_group_page_options.php:169 
+#: inc/tgmpa/acf-php/_group_page_options.php:280 
+#: inc/tgmpa/acf-php/_group_page_options.php:367 
+#: inc/tgmpa/acf-php/_group_page_options.php:472 
+#: inc/tgmpa/acf-php/_group_page_options.php:655 
+#: inc/tgmpa/acf-php/_group_page_options.php:682 
+#: inc/tgmpa/acf-php/_group_page_options.php:900 
+#: inc/tgmpa/acf-php/_group_page_options.php:966 
+#: inc/tgmpa/acf-php/_group_page_options.php:1043 
+#: inc/tgmpa/acf-php/_group_page_options.php:1160 
+#: inc/tgmpa/acf-php/_group_page_options.php:1198 
+#: inc/tgmpa/acf-php/_group_page_options.php:1204 
+#: inc/tgmpa/acf-php/_group_page_options.php:1403 
+#: inc/tgmpa/acf-php/_group_page_options.php:1527 
+#: inc/tgmpa/acf-php/global_ecommerce.php:114 
+#: inc/tgmpa/acf-php/global_ecommerce.php:270 
+#: inc/tgmpa/acf-php/global_ecommerce.php:327 
+#: inc/tgmpa/acf-php/global_ecommerce.php:371 
+#: inc/tgmpa/acf-php/global_ecommerce.php:403 
+#: inc/tgmpa/acf-php/template_portfolio.php:242 
+#: inc/tgmpa/acf-php/template_portfolio.php:518 
+#: inc/tgmpa/acf-php/template_portfolio.php:586 
+#: inc/tgmpa/acf-php/template_portfolio.php:614 
+#: inc/tgmpa/acf-php/template_blog.php:135 
+#: inc/tgmpa/acf-php/template_blog.php:152 
+#: inc/tgmpa/acf-php/template_blog.php:157 
+#: inc/tgmpa/acf-php/global_page.php:48 inc/tgmpa/acf-php/global_page.php:104 
+#: inc/tgmpa/acf-php/global_page.php:228 inc/tgmpa/acf-php/global_page.php:242 
+#: inc/tgmpa/acf-php/global_page.php:310 inc/tgmpa/acf-php/global_page.php:342 
+#: inc/tgmpa/acf-php/global_page.php:362 inc/tgmpa/acf-php/global_page.php:384 
+#: inc/tgmpa/acf-php/global_page.php:540 inc/tgmpa/acf-php/global_page.php:594 
+#: inc/tgmpa/acf-php/global_page.php:681 inc/tgmpa/acf-php/global_page.php:703 
+#: inc/tgmpa/acf-php/global_header.php:43 
+#: inc/tgmpa/acf-php/global_header.php:139 
+#: inc/tgmpa/acf-php/global_header.php:165 
+#: inc/tgmpa/acf-php/global_header.php:187 
+#: inc/tgmpa/acf-php/global_header.php:315 
+#: inc/tgmpa/acf-php/global_header.php:395 
+#: inc/tgmpa/acf-php/global_header.php:417 
+#: inc/tgmpa/acf-php/global_header.php:504 
+#: inc/tgmpa/acf-php/global_header.php:616 
+#: inc/tgmpa/acf-php/global_header.php:764 
+#: inc/tgmpa/acf-php/global_header.php:786 
+#: inc/tgmpa/acf-php/global_blog.php:111 inc/tgmpa/acf-php/global_blog.php:171 
+#: inc/tgmpa/acf-php/global_blog.php:374 inc/tgmpa/acf-php/global_blog.php:435 
+#: inc/tgmpa/acf-php/global_blog.php:485 inc/tgmpa/acf-php/global_blog.php:527 
+#: inc/tgmpa/acf-php/global_blog.php:579 inc/tgmpa/acf-php/global_blog.php:611 
+#: inc/tgmpa/acf-php/global_portfolio.php:631 
+#: inc/tgmpa/acf-php/global_portfolio.php:653 
+#: inc/tgmpa/acf-php/global_portfolio.php:2376 
+#: inc/tgmpa/acf-php/global_menu.php:104 inc/tgmpa/acf-php/global_menu.php:126 
+#: inc/tgmpa/acf-php/global_menu.php:364 inc/tgmpa/acf-php/global_menu.php:437 
+#: inc/tgmpa/acf-php/global_menu.php:520 inc/tgmpa/acf-php/global_menu.php:581 
+#: inc/tgmpa/acf-php/global_menu.php:595 inc/tgmpa/acf-php/global_menu.php:635 
+#: inc/tgmpa/acf-php/global_menu.php:660 inc/tgmpa/acf-php/global_menu.php:783 
+#: inc/tgmpa/acf-php/global_menu.php:804 
+#: inc/tgmpa/acf-php/global_product.php:61 
+#: inc/tgmpa/acf-php/global_product.php:79 
+#: inc/tgmpa/acf-php/global_product.php:93 
+#: inc/tgmpa/acf-php/global_product.php:107 
+#: inc/tgmpa/acf-php/global_product.php:135 
+#: inc/tgmpa/acf-php/global_product.php:149 
+#: inc/tgmpa/acf-php/global_product.php:163 
+#: inc/tgmpa/acf-php/global_product.php:177 
+#: inc/tgmpa/acf-php/global_footer.php:43 
+#: inc/tgmpa/acf-php/global_footer.php:57 
+#: inc/tgmpa/acf-php/global_footer.php:189 
+#: inc/tgmpa/acf-php/global_other.php:31 inc/tgmpa/acf-php/global_other.php:97 
+#: inc/tgmpa/acf-php/global_other.php:119 
+#: inc/tgmpa/acf-php/global_other.php:141 
+#: inc/tgmpa/acf-php/global_other.php:184 
+#: inc/tgmpa/acf-php/global_other.php:374 
+#: inc/tgmpa/acf-php/global_other.php:446 
+#: inc/tgmpa/acf-php/global_other.php:468 
+#: inc/tgmpa/acf-php/global_other.php:533 
+#: inc/tgmpa/acf-php/global_other.php:693 
+#: inc/tgmpa/acf-php/global_other.php:843 
+#: inc/tgmpa/acf-php/global_other.php:920 
+#: inc/tgmpa/acf-php/global_other.php:960 
+#: inc/tgmpa/acf-php/global_other.php:981 
+#: inc/tgmpa/acf-php/global_other.php:1001 
+#: inc/tgmpa/acf-php/global_other.php:1022 
+#: inc/tgmpa/acf-php/global_other.php:1164
+msgid "No"
+msgstr ""
+
+#: woocommerce/myaccount/downloads.php:40
+msgid "No downloads available yet."
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:105
+msgid "No order has been made yet."
+msgstr ""
+
+#: woocommerce/wishlist-view.php:195
+msgid "No products added to the wishlist"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:102
+msgid "No products in the cart."
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:188
+msgid "No repeat"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:450
+msgid "No results for your search query"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:40 
+#: inc/tgmpa/acf-php/template_portfolio.php:172 
+#: inc/tgmpa/acf-php/template_blog.php:111 
+#: inc/tgmpa/acf-php/global_blog.php:88 
+#: inc/tgmpa/acf-php/global_portfolio.php:171 
+#: inc/tgmpa/acf-php/global_portfolio.php:1748
+msgid "None"
+msgstr ""
+
+#: inc/init/theme.php:89 inc/tgmpa/acf-php/global_typography.php:246
+msgid "Normal"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:130
+msgid "Not that bad"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:325
+msgid "Note, that you can update the theme without losing the code injected."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:49
+msgid ""
+"Note, use <a target=\"_blank\" href=\"../?coming-soon-preview=true\">the "
+"following link</a> to be able to see the coming soon page as a WordPress "
+"administrator."
+msgstr ""
+
+#: woocommerce/order/order-details.php:92
+msgid "Note:"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:899 
+#: inc/tgmpa/acf-php/global_other.php:910
+msgid "Notification"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1044
+msgid "Notification background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:985
+msgid "Notification button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1005
+msgid "Notification button attributes"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1026
+msgid "Notification button color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:944
+msgid "Notification link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:964
+msgid "Notification link attributes"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1128
+msgid "Notification link typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:924
+msgid "Notification text"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1113
+msgid "Notification typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:163 
+#: inc/tgmpa/acf-php/global_blog.php:177
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:118
+msgid "Number of Products"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:253 
+#: inc/tgmpa/acf-php/global_portfolio.php:260
+msgid "Number of Projects"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:281
+msgid "Number of related posts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:249
+msgid "Number of related products"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:462 
+#: inc/tgmpa/acf-php/global_portfolio.php:2121
+msgid "Numbers"
+msgstr ""
+
+#. Name of the theme
+msgid "Ohio"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Ohio is a WordPress theme bundled with premium plugins to build a modern and "
+"functional website."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:614 inc/tgmpa/acf-php/global_menu.php:625
+msgid "One Page Menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:87 
+#: inc/tgmpa/acf-php/global_portfolio.php:82
+msgid "Onepage with smooth scroll"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:142
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:208
+msgid "Open a project external link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:209
+msgid "Open a project external link in a new tab"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:207
+msgid "Open a standard project page"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:171
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:825
+msgid "Open links in new tab?"
+msgstr ""
+
+#: parts/portfolio/layout_type8.php:141 parts/portfolio/layout_type9.php:169 
+#: parts/portfolio/layout_type4.php:75 parts/portfolio/layout_type5.php:163 
+#: parts/portfolio/layout_type7.php:81 parts/portfolio/layout_type6.php:138 
+#: parts/portfolio/layout_type2.php:75 parts/portfolio/layout_type3.php:78 
+#: parts/portfolio/layout_type1.php:78
+msgid "Open Project"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1143
+msgid "Options Cache"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:107 inc/tgmpa/acf-php/project.php:121 
+#: inc/tgmpa/acf-php/project.php:135
+msgid "or leave blank"
+msgstr ""
+
+#: woocommerce/order/order-details.php:45
+msgid "Order details"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:28
+msgid "Order list"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:57
+msgid "Order number"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:152 
+#: inc/tgmpa/acf-php/global_portfolio.php:120
+msgid "Original"
+msgstr ""
+
+#. %s: link to original title
+#: inc/menu/edit_mega_menu_walker.php:250
+msgid "Original: %s"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:103 inc/tgmpa/acf-php/global_general.php:605 
+#: inc/tgmpa/acf-php/_group_page_options.php:265 
+#: inc/tgmpa/acf-php/_group_page_options.php:1388 
+#: inc/tgmpa/acf-php/_group_page_options.php:1601 
+#: inc/tgmpa/acf-php/_group_page_options.php:1712 
+#: inc/tgmpa/acf-php/global_post.php:309 
+#: inc/tgmpa/acf-php/global_ecommerce.php:551 
+#: inc/tgmpa/acf-php/global_header.php:822 
+#: inc/tgmpa/acf-php/global_menu.php:664 
+#: inc/tgmpa/acf-php/global_product.php:270 
+#: inc/tgmpa/acf-php/global_footer.php:323 inc/tgmpa/acf-php/global_other.php:5
+msgid "Other"
+msgstr ""
+
+#: parts/elements/page_headline.php:36
+msgid "Our recent posts"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:38
+msgid "out of %1$s5%2$s"
+msgstr ""
+
+#: woocommerce/single-product/review-rating.php:29
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:129 
+#: woocommerce/single-product/sticky-product.php:67 
+#: woocommerce/loop/sale-flash.php:35
+msgid "Out of stock"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:341
+msgid "Out of stock tag background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:906 
+#: inc/tgmpa/acf-php/global_ecommerce.php:490 
+#: inc/tgmpa/acf-php/template_portfolio.php:1049 
+#: inc/tgmpa/acf-php/template_portfolio.php:1241 
+#: inc/tgmpa/acf-php/template_blog.php:439 
+#: inc/tgmpa/acf-php/global_blog.php:746 
+#: inc/tgmpa/acf-php/global_portfolio.php:1274 
+#: inc/tgmpa/acf-php/global_portfolio.php:1773 
+#: inc/tgmpa/acf-php/global_portfolio.php:2313
+msgid "Outlined"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:639 
+#: inc/tgmpa/acf-php/global_portfolio.php:676 
+#: inc/tgmpa/acf-php/global_portfolio.php:2268
+msgid "Overlay color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:799
+msgid "Page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:479
+msgid "Page animation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:991 
+#: inc/tgmpa/acf-php/global_page.php:191
+msgid "Page background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:957 
+#: inc/tgmpa/acf-php/global_page.php:155
+msgid "Page boxed layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:977 
+#: inc/tgmpa/acf-php/global_page.php:169
+msgid "Page boxed layout margins"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:935 
+#: inc/tgmpa/acf-php/global_page.php:133
+msgid "Page content bottom margin"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:911 
+#: inc/tgmpa/acf-php/global_page.php:110
+msgid "Page content top margin"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:891 
+#: inc/tgmpa/acf-php/global_page.php:96
+msgid "Page content vertical margins"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:241
+msgid "Page details typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:223
+msgid "Page heading typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1008 
+#: inc/tgmpa/acf-php/global_page.php:207
+msgid "Page Headline"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1014 
+#: inc/tgmpa/acf-php/global_page.php:218
+msgid "Page headline"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:264
+msgid "Page headline alignment"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1134 
+#: inc/tgmpa/acf-php/global_page.php:284
+msgid "Page headline background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1151
+msgid "Page headline background overlay"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1171
+msgid "Page headline background overlay color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1110
+msgid "Page headline content position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1034 
+#: inc/tgmpa/acf-php/global_page.php:232
+msgid "Page headline fullscreen mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1054 
+#: inc/tgmpa/acf-php/global_page.php:246
+msgid "Page headline height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:300
+msgid "Page headline overlay"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:314
+msgid "Page headline overlay color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1189 
+#: inc/tgmpa/acf-php/global_page.php:332
+msgid "Page headline parallax"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1096
+msgid "Page headline subtitle"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1208
+msgid "Page headline typography"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:74
+msgid "Page not found"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:503
+msgid "Page scroll"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:47 inc/tgmpa/acf-php/_group_page_options.php:5 
+#: inc/tgmpa/acf-php/global_page.php:5 inc/tgmpa/acf-php/page.php:5
+msgid "Page Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/page.php:10 inc/tgmpa/acf-php/page.php:13
+msgid "Page settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:869 
+#: inc/tgmpa/acf-php/global_page.php:74
+msgid "Page side margins"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1286 
+#: inc/tgmpa/acf-php/global_page.php:430
+msgid "Page Sidebar"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:835 
+#: inc/tgmpa/acf-php/global_page.php:38
+msgid "Page wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:855 
+#: inc/tgmpa/acf-php/global_page.php:52
+msgid "Page wrapper width"
+msgstr ""
+
+#: inc/sidebars.php:15 parts/content-page.php:6 parts/content.php:11
+msgid "Pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product_pages.php:10 
+#: inc/tgmpa/acf-php/global_product_pages.php:13 
+#: inc/tgmpa/acf-php/global_blog_pages.php:10 
+#: inc/tgmpa/acf-php/global_blog_pages.php:13 
+#: inc/tgmpa/acf-php/global_post_pages.php:10 
+#: inc/tgmpa/acf-php/global_post_pages.php:13 
+#: inc/tgmpa/acf-php/global_project_pages.php:13 
+#: inc/tgmpa/acf-php/global_ecommerce_pages.php:10 
+#: inc/tgmpa/acf-php/global_ecommerce_pages.php:13
+msgid "Pages settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:459 
+#: inc/tgmpa/acf-php/template_portfolio.php:1208 
+#: inc/tgmpa/acf-php/template_blog.php:406 
+#: inc/tgmpa/acf-php/global_blog.php:715 
+#: inc/tgmpa/acf-php/global_portfolio.php:936 
+#: inc/tgmpa/acf-php/global_portfolio.php:1741
+msgid "Pagination"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:528 
+#: inc/tgmpa/acf-php/template_portfolio.php:1280 
+#: inc/tgmpa/acf-php/template_blog.php:478 
+#: inc/tgmpa/acf-php/global_blog.php:784 
+#: inc/tgmpa/acf-php/global_portfolio.php:1811
+msgid "Pagination position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:505 
+#: inc/tgmpa/acf-php/template_portfolio.php:1256 
+#: inc/tgmpa/acf-php/template_blog.php:454 
+#: inc/tgmpa/acf-php/global_blog.php:761 
+#: inc/tgmpa/acf-php/global_portfolio.php:1788
+msgid "Pagination size"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:482 
+#: inc/tgmpa/acf-php/template_portfolio.php:1232 
+#: inc/tgmpa/acf-php/template_blog.php:430 
+#: inc/tgmpa/acf-php/global_blog.php:738 
+#: inc/tgmpa/acf-php/global_portfolio.php:1765
+msgid "Pagination type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:312 
+#: inc/tgmpa/acf-php/global_typography.php:413
+msgid "Paragraphs"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:257 
+#: inc/tgmpa/acf-php/global_portfolio.php:2017
+msgid "Parallax"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:58 
+#: woocommerce/myaccount/form-login.php:110
+msgid "Password"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:334 
+#: inc/tgmpa/acf-php/global_other.php:345
+msgid "Paste your Google Analytics, Facebook Pixel or custom tracking code"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:301
+msgid "Paste your key"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:927
+msgid "Paste your notification text here"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:75
+msgid "Paste your web project ID"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:80
+msgid "Payment method"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:402
+msgid "Percentage"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:127
+msgid "Perfect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1905
+msgid "Permalinks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:134
+msgid "perspective"
+msgstr ""
+
+#: woocommerce/share.php:63 woocommerce/share.php:64 
+#: inc/framework/components/object_parser.php:468 
+#: inc/tgmpa/acf-php/global_post.php:172 inc/tgmpa/acf-php/global_post.php:344 
+#: inc/tgmpa/acf-php/global_portfolio.php:2399 
+#: inc/tgmpa/acf-php/global_product.php:310 
+#: inc/tgmpa/acf-php/global_other.php:740
+msgid "Pinterest"
+msgstr ""
+
+#: woocommerce/product_popup.php:53 
+#: woocommerce/single-product/product-image.php:77 
+#: woocommerce/single-product/views/type_1_reverse.php:87 
+#: woocommerce/single-product/views/type_1.php:76
+msgid "Placeholder"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:108 
+#: inc/tgmpa/acf-php/template_blog.php:284
+msgid "Placing elements in optimal position based on available vertical space"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: parts/elements/menu_nav.php:76
+msgid "Please, %1$s assign a menu %2$s"
+msgstr ""
+
+#: parts/elements/fullscreen_menu/standard.php:38 
+#: parts/elements/fullscreen_menu/compact.php:38 
+#: parts/elements/fullscreen_menu/centered.php:38
+msgid "Please, %1$sassign a menu%2$s"
+msgstr ""
+
+#: parts/elements/subscribe.php:28
+msgid "Please, don’t ask me again"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:277
+msgid "Plugins"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:54 inc/tgmpa/ocdi_setup.php:490 
+#: inc/tgmpa/ocdi_setup.php:498 parts/elements/breadcrumbs.php:69
+msgid "Portfolio"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:114
+msgid "Portfolio categories"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1106 
+#: inc/tgmpa/acf-php/global_portfolio.php:1650
+msgid "Portfolio Filter Bar"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:200 
+#: inc/tgmpa/acf-php/global_portfolio.php:213
+msgid "Portfolio grid spacing"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:131 
+#: inc/tgmpa/acf-php/global_portfolio.php:131
+msgid "Portfolio hover effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:259 
+#: inc/tgmpa/acf-php/global_portfolio.php:266
+msgid "Portfolio items per page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:275 
+#: inc/tgmpa/acf-php/global_portfolio.php:282
+msgid "Portfolio items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:33 
+#: inc/tgmpa/acf-php/global_portfolio.php:33
+msgid "Portfolio layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1095 
+#: inc/tgmpa/acf-php/global_portfolio.php:1583
+msgid "Portfolio Page"
+msgstr ""
+
+#. Name of the template
+#: inc/tgmpa/acf-php/global_portfolio.php:1615
+msgid "Portfolio page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1202 
+#: inc/tgmpa/acf-php/global_portfolio.php:1735
+msgid "Portfolio Page Pagination"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1609
+msgid "Portfolio Page Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:5 
+#: inc/tgmpa/acf-php/global_portfolio.php:5
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:109
+msgid "Portfolio thumbnail size"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:180
+msgid "Portfolio tilt effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:193
+msgid "Portfolio tilt effect perspective"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:274
+msgid "Post Card"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:57
+msgid "Post comments"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:21
+msgid "Post layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:71
+msgid "Post navigation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post_pages.php:5
+msgid "Post Pages Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:5
+msgid "Post Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1072
+msgid "Post subtitle text"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:43
+msgid "Post tags"
+msgstr ""
+
+#: parts/blog_grid/layout_type4.php:93 parts/blog_grid/layout_type5.php:94 
+#: parts/blog_grid/layout_type6.php:105 parts/blog_grid/layout_type2.php:96 
+#: parts/blog_grid/layout_type3.php:94 parts/blog_grid/layout_type1.php:94
+msgid "Posted by"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:303
+msgid "posts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:345 
+#: inc/tgmpa/acf-php/_group_page_options.php:114
+msgid "Preloader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:461
+msgid "Preloader background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:443
+msgid "Preloader color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:359
+msgid "Preloader type"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:93
+msgid "Previous"
+msgstr ""
+
+#: inc/init/theme.php:20
+msgid "Primary"
+msgstr ""
+
+#: woocommerce/order/order-details.php:50
+msgid "Product"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:276
+msgid "Product card background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:256
+msgid "Product Cards"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:361
+msgid "Product category"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:375
+msgid "Product category typography"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:33
+msgid "Product hover effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:90
+msgid "Product images in gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:124
+msgid "Product items per page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:148
+msgid "Product items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:21 inc/tgmpa/acf-php/global_product.php:21
+msgid "Product layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:213
+msgid "Product meta"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:218
+msgid "Product meta typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product_pages.php:5
+msgid "Product Pages Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:393 
+#: inc/tgmpa/acf-php/global_product.php:203
+msgid "Product price"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:208 inc/tgmpa/acf-php/global_ecommerce.php:407
+msgid "Product price typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:5 inc/tgmpa/acf-php/global_product.php:5
+msgid "Product Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:70
+msgid "Product tilt effect perspective"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:193
+msgid "Product title"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:198 inc/tgmpa/acf-php/global_ecommerce.php:351
+msgid "Product title typography"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:507
+msgid "Products"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:129 
+#: inc/tgmpa/acf-php/global_product.php:257
+msgid "products"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2506
+msgid "Project category"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:730 
+#: inc/tgmpa/acf-php/global_portfolio.php:2527
+msgid "Project category typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:135
+msgid "Project client"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2545
+msgid "Project date"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:760 
+#: inc/tgmpa/acf-php/global_portfolio.php:2566
+msgid "Project date typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2602
+msgid "Project description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2623
+msgid "Project description length"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:790 
+#: inc/tgmpa/acf-php/global_portfolio.php:2644
+msgid "Project description typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:121
+msgid "Project design"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:5
+msgid "Project Details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2662
+msgid "Project details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:850 
+#: inc/tgmpa/acf-php/global_portfolio.php:2683
+msgid "Project details typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:223
+msgid "Project external link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1845
+msgid "Project layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:200 
+#: inc/tgmpa/acf-php/global_portfolio.php:1513 
+#: inc/tgmpa/acf-php/global_portfolio.php:2701
+msgid "Project link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2722
+msgid "Project link text"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:880 
+#: inc/tgmpa/acf-php/global_portfolio.php:1555 
+#: inc/tgmpa/acf-php/global_portfolio.php:2742
+msgid "Project link typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1834
+msgid "Project Page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:22
+msgid "Project page layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_project_pages.php:5
+msgid "Project Page Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:681
+msgid "Project page typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:5
+msgid "Project Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:107
+msgid "Project strategy"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:820
+msgid "Project task typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:700 
+#: inc/tgmpa/acf-php/global_portfolio.php:2584
+msgid "Project title typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1902
+msgid "Project URL slug"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:268 
+#: inc/tgmpa/acf-php/global_portfolio.php:275
+msgid "projects"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_project_pages.php:10
+msgid "Projects settings"
+msgstr ""
+
+#: parts/elements/social_bar.php:156
+msgid "Pt."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:459
+msgid "Publication date typography"
+msgstr ""
+
+#: parts/elements/page_headline.php:83
+msgid "Published"
+msgstr ""
+
+#: parts/elements/social_bar.php:165
+msgid "Qu."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:39 
+#: woocommerce/single-product/add-to-cart/simple.php:29
+msgid "Quantity"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:317
+msgid "Quickview button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:173 inc/tgmpa/acf-php/global_other.php:741
+msgid "Quora"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:125
+msgid "Rate this product:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:126
+msgid "Rate&hellip;"
+msgstr ""
+
+#. %s: rating
+#: woocommerce/single-product/review-rating.php:28
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:36
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: parts/elements/social_bar.php:174
+msgid "Re."
+msgstr ""
+
+#: parts/blog_grid/layout_type4.php:135 parts/blog_grid/layout_type5.php:138 
+#: parts/blog_grid/layout_type6.php:143 parts/blog_grid/layout_type2.php:138 
+#: parts/blog_grid/layout_type3.php:138 parts/blog_grid/layout_type1.php:138
+msgid "Read More"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:603
+msgid "Read more"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:617
+msgid "Read more typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:477
+msgid "Reading time"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:491
+msgid "Reading time typography"
+msgstr ""
+
+#: parts/elements/related_posts.php:47
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:174 inc/tgmpa/acf-php/global_other.php:742
+msgid "Reddit"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:88
+msgid "Registration"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:276
+msgid "Regular header inherited"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:256
+msgid "Related post items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:231
+msgid "Related Posts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:242
+msgid "Related posts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:224
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/related.php:77 inc/tgmpa/acf-php/product.php:172 
+#: inc/tgmpa/acf-php/global_product.php:235
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:68
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:178 inc/menu/edit_mega_menu_walker.php:266
+msgid "Remove"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:214
+msgid "Remove Image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:203 
+#: inc/tgmpa/acf-php/template_blog.php:129 
+#: inc/tgmpa/acf-php/global_blog.php:166 
+#: inc/tgmpa/acf-php/global_portfolio.php:216
+msgid "Remove spacing between grid items"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:75 woocommerce/wishlist-view.php:178
+msgid "Remove this product"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:187
+msgid "Repeat"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:237 
+#: inc/tgmpa/acf-php/global_blog.php:287 
+#: inc/tgmpa/acf-php/global_portfolio.php:467
+msgid "Repeat animation while scrolling page up and down"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:189
+msgid "Repeat only by X"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:190
+msgid "Repeat only by Y"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:57
+msgid "Reset"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:497
+msgid "Resolution when mobile menu begins to appear"
+msgstr ""
+
+#: parts/elements/page_headline.php:48
+msgid "Results for: "
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_logo_options.php:29 
+#: inc/tgmpa/acf-php/_group_logo_options.php:86 
+#: inc/tgmpa/acf-php/_group_logo_options.php:143
+msgid "Retina version @2x"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:597 
+#: inc/tgmpa/acf-php/global_portfolio.php:637
+msgid "Reversed layout"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:37
+msgid "Reviews"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1120 
+#: inc/tgmpa/acf-php/_group_page_options.php:1301 
+#: inc/tgmpa/acf-php/global_ecommerce.php:303 
+#: inc/tgmpa/acf-php/global_ecommerce.php:537 
+#: inc/tgmpa/acf-php/template_portfolio.php:1188 
+#: inc/tgmpa/acf-php/template_portfolio.php:1290 
+#: inc/tgmpa/acf-php/template_blog.php:377 
+#: inc/tgmpa/acf-php/template_blog.php:488 
+#: inc/tgmpa/acf-php/global_page.php:273 inc/tgmpa/acf-php/global_page.php:455 
+#: inc/tgmpa/acf-php/global_blog.php:407 inc/tgmpa/acf-php/global_blog.php:793 
+#: inc/tgmpa/acf-php/global_portfolio.php:749 
+#: inc/tgmpa/acf-php/global_portfolio.php:1721 
+#: inc/tgmpa/acf-php/global_portfolio.php:1820 
+#: inc/tgmpa/acf-php/global_menu.php:557
+msgid "Right"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:147
+msgid "Right bottom"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:146
+msgid "Right center"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:580 
+#: inc/tgmpa/acf-php/global_page.php:740 inc/tgmpa/acf-php/global_other.php:855
+msgid "Right side"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:145
+msgid "Right top"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:22
+msgid "SALE"
+msgstr ""
+
+#: woocommerce/loop/sale-flash.php:30
+msgid "Sale"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:111
+msgid "Sale tag"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:331
+msgid "Sale tag background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:591
+msgid "Save color mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:594
+msgid "Save color mode while toggle the switcher"
+msgstr ""
+
+#: parts/elements/social_bar.php:192
+msgid "Sc."
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:258 
+#: inc/tgmpa/acf-php/global_portfolio.php:2018
+msgid "Scale"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:97 
+#: inc/tgmpa/acf-php/global_portfolio.php:92
+msgid "Scattered with smooth scroll"
+msgstr ""
+
+#: page_templates/page_for-projects.php:547
+msgid "Scroll"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:424
+msgid "Scroll position when sticky header begins to appear"
+msgstr ""
+
+#: parts/elements/scroll_top.php:15
+msgid "Scroll to top"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1394 
+#: inc/tgmpa/acf-php/global_page.php:671
+msgid "Scroll-to-top"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:685
+msgid "Scroll-to-top on mobiles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:724
+msgid "Scroll-to-top position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1414 
+#: inc/tgmpa/acf-php/global_page.php:707
+msgid "Scroll-to-top typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:271 
+#: inc/tgmpa/acf-php/global_menu.php:585 inc/tgmpa/acf-php/global_menu.php:675 
+#: inc/tgmpa/acf-php/global_menu.php:681
+msgid "Search"
+msgstr ""
+
+#: searchform.php:3 woocommerce/product-searchform.php:34
+msgid "Search for"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:318 
+#: inc/tgmpa/acf-php/global_menu.php:749
+msgid "Search icon color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:291 
+#: inc/tgmpa/acf-php/global_menu.php:722
+msgid "Search position"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:70
+msgid "Search results"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:360
+msgid "Search suggestions"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:695
+msgid "Search type"
+msgstr ""
+
+#: searchform.php:4 woocommerce/product-searchform.php:35
+msgid "Search..."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:520
+msgid "seconds"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:490
+msgid "Select one of the ways to display modal"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:938 
+#: inc/tgmpa/acf-php/global_page.php:136
+msgid "Set a bottom margin for page content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:628 
+#: inc/tgmpa/acf-php/global_portfolio.php:766
+msgid "Set a fullscreen mode for the portfolio slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:320
+msgid "Set a height for the site logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:172 
+#: inc/tgmpa/acf-php/global_blog.php:186
+msgid "Set a number of blog items output"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:188 
+#: inc/tgmpa/acf-php/global_blog.php:202
+msgid "Set a number of blog items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:262 
+#: inc/tgmpa/acf-php/global_portfolio.php:269
+msgid "Set a number of portfolio items output"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:278 
+#: inc/tgmpa/acf-php/global_portfolio.php:285
+msgid "Set a number of portfolio items per row"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:284
+msgid "Set a number of related posts output"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:252
+msgid "Set a number of related products output"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:73 
+#: inc/tgmpa/acf-php/global_portfolio.php:196
+msgid "Set a perspective value for tilt effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:914 
+#: inc/tgmpa/acf-php/global_page.php:113
+msgid "Set a top margin for page content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:464
+msgid "Set background color for preloader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:124
+msgid "Set footer to be sticky (fixed) on all pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1037
+msgid "Set fullscreen mode for page headline?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:120
+msgid "Set perspective value for tilt effect"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:980 
+#: inc/tgmpa/acf-php/global_page.php:77 inc/tgmpa/acf-php/global_page.php:172 
+#: inc/tgmpa/acf-php/global_header.php:221 
+#: inc/tgmpa/acf-php/global_footer.php:86
+msgid "Set side margins for a full-width layout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:969 
+#: inc/tgmpa/acf-php/global_portfolio.php:1185
+msgid "Set slider animation direction"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1521
+msgid "Set sticky (fixed) footer on this page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:858 
+#: inc/tgmpa/acf-php/global_page.php:55 
+#: inc/tgmpa/acf-php/global_header.php:194 
+#: inc/tgmpa/acf-php/global_footer.php:64
+msgid "Set the container wrapper width"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:536
+msgid "Set the length of the short description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1477
+msgid "Set the length of the short description."
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:843 
+#: inc/tgmpa/acf-php/global_portfolio.php:1070 
+#: inc/tgmpa/acf-php/global_portfolio.php:2866
+msgid "Set up autoplay interval timeout"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:574 
+#: inc/tgmpa/acf-php/global_portfolio.php:2213
+msgid "Set up autoplay interval timeout for the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1008
+msgid "Set up button link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:790
+msgid "Set up button options"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:505 
+#: inc/tgmpa/acf-php/global_header.php:248
+msgid "Set up header height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:967
+msgid "Set up notification link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1057 
+#: inc/tgmpa/acf-php/global_page.php:249
+msgid "Set up page headline height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:425
+msgid "Set up responsive typography styles for H1 headings."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:434
+msgid "Set up responsive typography styles for H2 headings."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:443
+msgid "Set up responsive typography styles for H3 headings."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:452
+msgid "Set up responsive typography styles for H4 headings."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:461
+msgid "Set up responsive typography styles for H5 headings."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:470
+msgid "Set up responsive typography styles for H6 headings."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:416
+msgid "Set up responsive typography styles for paragraphs."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:710
+msgid "Set up scroll-to-top typography for all pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:448
+msgid "Set up sticky header height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:741 
+#: inc/tgmpa/acf-php/global_header.php:623
+msgid "Set up subheader height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:444
+msgid "Set up typography for a hamburger menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:339
+msgid "Set up typography for a hamburger menu details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:404
+msgid "Set up typography for a hamburger menu social networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:133
+msgid "Set up typography for a standard menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:444
+msgid "Set up typography for blog items author"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:588
+msgid "Set up typography for blog items category"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:556
+msgid "Set up typography for blog items content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:462
+msgid "Set up typography for blog items date"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:620
+msgid "Set up typography for blog items Read more button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:494
+msgid "Set up typography for blog items reading time"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:512
+msgid "Set up typography for blog items title"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1232 
+#: inc/tgmpa/acf-php/global_page.php:397
+msgid "Set up typography for go back button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:547
+msgid "Set up typography for header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1251 
+#: inc/tgmpa/acf-php/global_page.php:415
+msgid "Set up typography for hero titles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:608
+msgid "Set up typography for mobile menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1211
+msgid "Set up typography for page headline"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1362 
+#: inc/tgmpa/acf-php/global_portfolio.php:1422
+msgid "Set up typography for portfolio item categories"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1558
+msgid "Set up typography for portfolio item project links"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1338
+msgid "Set up typography for portfolio item titles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1498
+msgid "Set up typography for portfolio items short description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:378
+msgid "Set up typography for product grid category"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:410
+msgid "Set up typography for product grid price"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:354
+msgid "Set up typography for product grid titles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:221 inc/tgmpa/acf-php/global_product.php:216
+msgid "Set up typography for product meta"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2569
+msgid "Set up typography for project date"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2530 
+#: inc/tgmpa/acf-php/global_portfolio.php:2647
+msgid "Set up typography for project description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2686
+msgid "Set up typography for project details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2587
+msgid "Set up typography for project headline"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2745
+msgid "Set up typography for project link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:211 inc/tgmpa/acf-php/global_product.php:206
+msgid "Set up typography for simple product price"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:201 inc/tgmpa/acf-php/global_product.php:196
+msgid "Set up typography for simple product titles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:783 
+#: inc/tgmpa/acf-php/global_header.php:808
+msgid "Set up typography for subheader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1270 
+#: inc/tgmpa/acf-php/global_page.php:424
+msgid "Set up typography for subtitles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1417
+msgid "Set up typography for the current page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:167
+msgid "Set up typography for the website title"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:732
+msgid "Set up typography styles for categories"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:762
+msgid "Set up typography styles for date"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:792
+msgid "Set up typography styles for description"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:852
+msgid "Set up typography styles for details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:335
+msgid "Set up typography styles for h1 headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:345
+msgid "Set up typography styles for h2 headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:355
+msgid "Set up typography styles for h3 headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:365
+msgid "Set up typography styles for h4 headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:375
+msgid "Set up typography styles for h5 headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:385
+msgid "Set up typography styles for h6 headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:325
+msgid "Set up typography styles for headings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1116
+msgid "Set up typography styles for notification details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1131
+msgid "Set up typography styles for notification link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:315
+msgid "Set up typography styles for paragraphs"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:882
+msgid "Set up typography styles for project link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1732 
+#: inc/tgmpa/acf-php/global_other.php:884
+msgid "Set up typography styles for social networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:581
+msgid "Set up typography styles for sticky header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:657
+msgid "Set up typography styles for subscribe pop-up close link"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:621
+msgid "Set up typography styles for subscribe pop-up details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:639
+msgid "Set up typography styles for subscribe pop-up form"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:395
+msgid "Set up typography styles for subtitles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:822
+msgid "Set up typography styles for task"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:262
+msgid "Set up typography styles for the coming soon page countdown"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:244
+msgid "Set up typography styles for the coming soon page details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:226
+msgid "Set up typography styles for the coming soon page heading"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:702
+msgid "Set up typography styles for title"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:513 
+#: inc/tgmpa/acf-php/global_footer.php:153
+msgid "Set up typography styles for widget content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:504 
+#: inc/tgmpa/acf-php/global_footer.php:144
+msgid "Set up typography styles for widget heading"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:162
+msgid "Set up typography styles for widget links"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:284
+msgid "Setup copyright section background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:320 
+#: inc/tgmpa/acf-php/global_portfolio.php:2368 
+#: inc/tgmpa/acf-php/global_product.php:281
+msgid "Sharing"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:334 
+#: inc/tgmpa/acf-php/global_portfolio.php:2382 
+#: inc/tgmpa/acf-php/global_product.php:293
+msgid "Sharing networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2362
+msgid "Sharing Settings"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:54 woocommerce/cart/cart-totals.php:55
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:53
+msgid "Shipping address"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:85 inc/tgmpa/acf_setup.php:75 
+#: parts/elements/page_headline.php:115
+msgid "Shop"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:425
+msgid "Shop Page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:447
+msgid "Shop Page Pagination"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce_pages.php:5
+msgid "Shop Pages Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:5
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/tgmpa/ocdi_setup.php:534
+msgid "Shortcodes"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:304 
+#: inc/tgmpa/acf-php/project_settings.php:393 
+#: inc/tgmpa/acf-php/_group_page_options.php:707 
+#: inc/tgmpa/acf-php/_group_page_options.php:1022 
+#: inc/tgmpa/acf-php/_group_page_options.php:1349 
+#: inc/tgmpa/acf-php/_group_page_options.php:1459 
+#: inc/tgmpa/acf-php/_group_page_options.php:1552 
+#: inc/tgmpa/acf-php/product.php:65 inc/tgmpa/acf-php/product.php:102 
+#: inc/tgmpa/acf-php/product.php:117 inc/tgmpa/acf-php/product.php:132 
+#: inc/tgmpa/acf-php/product.php:147 inc/tgmpa/acf-php/product.php:162 
+#: inc/tgmpa/acf-php/product.php:178 inc/tgmpa/acf-php/global_post.php:74 
+#: inc/tgmpa/acf-php/template_portfolio.php:188 
+#: inc/tgmpa/acf-php/template_portfolio.php:656 
+#: inc/tgmpa/acf-php/template_portfolio.php:699 
+#: inc/tgmpa/acf-php/template_portfolio.php:742 
+#: inc/tgmpa/acf-php/template_portfolio.php:785 
+#: inc/tgmpa/acf-php/template_portfolio.php:828 
+#: inc/tgmpa/acf-php/template_portfolio.php:910 
+#: inc/tgmpa/acf-php/template_portfolio.php:953 
+#: inc/tgmpa/acf-php/template_portfolio.php:997 
+#: inc/tgmpa/acf-php/template_portfolio.php:1028 
+#: inc/tgmpa/acf-php/template_portfolio.php:1120 
+#: inc/tgmpa/acf-php/template_blog.php:289 
+#: inc/tgmpa/acf-php/template_blog.php:317 
+#: inc/tgmpa/acf-php/template_blog.php:337 
+#: inc/tgmpa/acf-php/global_page.php:574
+msgid "Show"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2704
+msgid "Show \"Show Project\" link in the lightbox"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1440 
+#: inc/tgmpa/acf-php/global_portfolio.php:1516
+msgid "Show \"Show Project\" link on portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:565
+msgid "Show a cart icon in the header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:574
+msgid "Show a category on blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:126
+msgid "Show a countdown timer on the coming soon page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:606
+msgid "Show a Read more button on blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:245
+msgid "Show a related posts section?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:238
+msgid "Show a related products section?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:522
+msgid "Show a short description on blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:537
+msgid "Show after page scrolled"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:445
+msgid "Show All"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:597
+msgid "Show an account icon in the header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:430
+msgid "Show an author on blog items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:480
+msgid "Show approximate post reading time"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:696
+msgid "Show author filter on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:100
+msgid "Show author widget on all post pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:533
+msgid "Show breadcrumbs on all pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1344
+msgid "Show breadcrumbs on this page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:714 
+#: inc/tgmpa/acf-php/global_portfolio.php:877 
+#: inc/tgmpa/acf-php/global_portfolio.php:2800
+msgid "Show bullets bar on portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2072
+msgid "Show bullets bar on the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:575
+msgid "Show cart totals"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:668
+msgid "Show categories filter on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1115
+msgid "Show category filter on portfolio page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1659
+msgid "Show category filter on portfolio pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1348
+msgid "Show category label on portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:144 inc/tgmpa/acf-php/global_product.php:156
+msgid "Show category on product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:182
+msgid "Show copyright bar on all pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1547
+msgid "Show copyright section on this page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:89
+msgid "Show counters on menu items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1380
+msgid "Show date on portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2451
+msgid "Show featured image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:57
+msgid "Show featured image in the lightbox?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:47 inc/tgmpa/acf-php/global_portfolio.php:1949
+msgid "Show featured image on the project page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2454
+msgid "Show featured image on the projects"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2473
+msgid "Show featured images in the lightbox?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:36
+msgid "Show footer on all pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1453
+msgid "Show footer on this page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:566 
+#: inc/tgmpa/acf-php/global_header.php:300
+msgid "Show header border?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:36
+msgid "Show header on all pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:356
+msgid "Show header on this page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:422
+msgid "Show language switcher in a hamburger menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:671 
+#: inc/tgmpa/acf-php/global_portfolio.php:808 
+#: inc/tgmpa/acf-php/global_portfolio.php:2778
+msgid "Show navigation buttons on portfolio items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:271 
+#: inc/tgmpa/acf-php/global_portfolio.php:2035
+msgid "Show navigation buttons on the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:221
+msgid "Show page headline on all pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1017
+msgid "Show page headline on this page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:515
+msgid "Show pop-up delay"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2509
+msgid "Show portfolio categories in the lightbox"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2548
+msgid "Show portfolio date in the lightbox"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2605
+msgid "Show portfolio description in the lightbox"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2665
+msgid "Show portfolio details in the lightbox"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1935
+msgid "Show portfolio navigation with next and previouse projects"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:60
+msgid "Show post comments on post pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:46
+msgid "Show post tags on post pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:60 inc/tgmpa/acf-php/global_product.php:68
+msgid "Show product categories in breadcrumbs?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:364
+msgid "Show product categories on product items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:114
+msgid "Show product navigation with next and previouse products"
+msgstr ""
+
+#: parts/portfolio_grid/layout_type9.php:100 
+#: parts/portfolio_grid/layout_type10.php:93 
+#: parts/portfolio_grid/layout_type4.php:88 
+#: parts/portfolio_grid/layout_type5.php:88 
+#: parts/portfolio_grid/layout_type7.php:89 
+#: parts/portfolio_grid/layout_type6.php:87 
+#: parts/portfolio_grid/layout_type3.php:88
+msgid "Show Project"
+msgstr ""
+
+#: parts/portfolio_grid/layout_type13.php:120 
+#: parts/portfolio_grid/layout_type2.php:114 
+#: parts/portfolio_grid/layout_type1.php:118
+msgid "Show project"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:717
+msgid "Show project categories?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:747
+msgid "Show project date?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:777
+msgid "Show project description?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:837
+msgid "Show project details?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:867
+msgid "Show project link?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:807
+msgid "Show project task?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:687
+msgid "Show project title?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:175
+msgid "Show related products on product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_product.php:128
+msgid "Show Sale / Out of stock tags on product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:114
+msgid "Show sale tag on product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:674
+msgid "Show scroll-to-top arrow on all pages"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:688
+msgid "Show scroll-to-top arrow on mobile devices"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1397
+msgid "Show scroll-to-top arrow on the current page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:274
+msgid "Show search icon on the current page"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:684
+msgid "Show search icon on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:588
+msgid "Show search in mobile menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:129 inc/tgmpa/acf-php/global_product.php:142
+msgid "Show SKU on product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:360
+msgid "Show slider bullets on the project slider"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:349
+msgid "Show social networks in a hamburger menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:574
+msgid "Show social networks in mobile menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:169
+msgid ""
+"Show social networks on the coming soon page. <em>(Go to Theme Settings > "
+"Other > Social Networks to add networks)</em>"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:686
+msgid "Show social networks on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:489
+msgid "Show sticky header border?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:609
+msgid "Show subheader on all pages?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:702
+msgid "Show subheader on this page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:111
+msgid "Show submenu dropdown multi-level indicators on first level menu items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:682
+msgid "Show tag filter on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:159 inc/tgmpa/acf-php/global_product.php:170
+msgid "Show tags on product page?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:396
+msgid "Show the price on product items"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1023 
+#: inc/tgmpa/acf-php/global_portfolio.php:1247
+msgid "Show video button on portfolio items"
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:345
+msgid "Showing %1$d-%2$d of %3$d results"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1292 
+#: inc/tgmpa/acf-php/global_page.php:446
+msgid "Sidebar"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1317 
+#: inc/tgmpa/acf-php/global_page.php:470
+msgid "Sidebar layout"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:37 
+#: woocommerce/myaccount/form-login.php:48 
+#: woocommerce/myaccount/form-login.php:73
+msgid "Sign In"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42 
+#: woocommerce/myaccount/form-login.php:125
+msgid "Sign Up"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1325 
+#: inc/tgmpa/acf-php/global_page.php:485
+msgid "Simple"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:72 inc/tgmpa/acf-php/global_blog.php:67
+msgid "Simple grid"
+msgstr ""
+
+#. $1 and $2 opening and closing emphasis tags respectively
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the %1$sUpdate Totals%2$s button before placing your order. "
+"You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:68
+msgid "Single Post"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:82
+msgid "Single Product"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:616
+msgid "Site Cursor"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:12 inc/tgmpa/acf-php/global_general.php:117 
+#: inc/tgmpa/acf-php/_group_page_options.php:33
+msgid "Site Identity"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:39
+msgid "Site logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:234
+msgid "Site logo for header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:261 
+#: inc/tgmpa/acf-php/global_general.php:291
+msgid "Site logo for sticky header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:317
+msgid "Site logo height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:128
+msgid "Site logo type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:334 
+#: inc/tgmpa/acf-php/_group_page_options.php:108
+msgid "Site Preloader"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:126 inc/tgmpa/acf-php/global_product.php:139
+msgid "SKU"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:48 
+#: woocommerce/single-product/meta.php:52
+msgid "SKU:"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:218 
+#: inc/tgmpa/acf-php/template_portfolio.php:448 
+#: inc/tgmpa/acf-php/template_blog.php:247 
+#: inc/tgmpa/acf-php/global_blog.php:268 
+#: inc/tgmpa/acf-php/global_portfolio.php:448
+msgid "Slide up"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:966 
+#: inc/tgmpa/acf-php/global_portfolio.php:1182
+msgid "Slider direction"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:158 
+#: inc/tgmpa/acf-php/global_portfolio.php:1957
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:76 
+#: inc/tgmpa/acf-php/global_portfolio.php:1894
+msgid "Slider with Centered Details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:66 
+#: inc/tgmpa/acf-php/global_portfolio.php:1884
+msgid "Slider with Custom Details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:61 
+#: inc/tgmpa/acf-php/global_portfolio.php:1879
+msgid "Slider with Details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:67 
+#: inc/tgmpa/acf-php/global_portfolio.php:62
+msgid "Slider with horizontal scroll"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:72 
+#: inc/tgmpa/acf-php/global_portfolio.php:67
+msgid "Slider with vertical scroll"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:574
+msgid "slug in breadcrumbs"
+msgstr ""
+
+#: inc/init/theme.php:84 inc/tgmpa/acf-php/project_settings.php:929 
+#: inc/tgmpa/acf-php/global_ecommerce.php:513 
+#: inc/tgmpa/acf-php/template_portfolio.php:1072 
+#: inc/tgmpa/acf-php/template_portfolio.php:1265 
+#: inc/tgmpa/acf-php/template_blog.php:463 
+#: inc/tgmpa/acf-php/global_blog.php:149 inc/tgmpa/acf-php/global_blog.php:769 
+#: inc/tgmpa/acf-php/global_portfolio.php:117 
+#: inc/tgmpa/acf-php/global_portfolio.php:1304 
+#: inc/tgmpa/acf-php/global_portfolio.php:1796 
+#: inc/tgmpa/acf-php/global_portfolio.php:2335
+msgid "Small"
+msgstr ""
+
+#: parts/elements/social_bar.php:183
+msgid "Sn."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:175 inc/tgmpa/acf-php/global_other.php:743
+msgid "Snapchat"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:308
+msgid "Snippets & Tracking"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:828
+msgid "Social network links will open in a new tab"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1723 
+#: inc/tgmpa/acf-php/global_other.php:672
+msgid "Social Networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:151 inc/tgmpa/acf-php/global_menu.php:571 
+#: inc/tgmpa/acf-php/global_other.php:166 
+#: inc/tgmpa/acf-php/global_other.php:683
+msgid "Social networks"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:188
+msgid "Social networks color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:697
+msgid "Social networks list"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:847
+msgid "Social networks position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:783
+msgid "Social networks type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1729 
+#: inc/tgmpa/acf-php/global_other.php:881
+msgid "Social networks typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:605 
+#: inc/tgmpa/acf-php/global_header.php:334 
+#: inc/tgmpa/acf-php/global_header.php:523
+msgid "Solid"
+msgstr ""
+
+#: parts/content-none.php:6 woocommerce/loop/no-products-found.php:24
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: 404.php:7
+msgid "Sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:33
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variation.php:31
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:176 inc/tgmpa/acf-php/global_other.php:744
+msgid "SoundCloud"
+msgstr ""
+
+#: parts/elements/social_bar.php:201
+msgid "Sp."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:200
+msgid "Space between"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:2626
+msgid "Specify the length of the description."
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:93
+msgid "Specify what a challenge you had to overcome working on this project"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:57 inc/tgmpa/acf-php/global_blog.php:52
+msgid "Split grid"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:35
+msgid "Split Screen"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:51 
+#: inc/tgmpa/acf-php/global_portfolio.php:1869
+msgid "Split Screen - Left Gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:56 
+#: inc/tgmpa/acf-php/global_portfolio.php:1874
+msgid "Split Screen - Right Gallery"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:77 
+#: inc/tgmpa/acf-php/global_portfolio.php:72
+msgid "Split screen with smooth scroll"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:177 inc/tgmpa/acf-php/global_other.php:745
+msgid "Spotify"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:247 
+#: inc/tgmpa/acf-php/_group_page_options.php:385 
+#: inc/tgmpa/acf-php/global_post.php:30 
+#: inc/tgmpa/acf-php/global_ecommerce.php:466 
+#: inc/tgmpa/acf-php/template_portfolio.php:1216 
+#: inc/tgmpa/acf-php/template_blog.php:414 
+#: inc/tgmpa/acf-php/global_header.php:64 
+#: inc/tgmpa/acf-php/global_blog.php:722 
+#: inc/tgmpa/acf-php/global_portfolio.php:1749 
+#: inc/tgmpa/acf-php/global_menu.php:234
+msgid "Standard"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:205 
+#: inc/tgmpa/acf-php/global_menu.php:40 inc/tgmpa/acf-php/global_menu.php:53 
+#: inc/tgmpa/acf-php/global_menu.php:68
+msgid "Standard menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:86
+msgid "Standard menu counters"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:108
+msgid "Standard menu multi-level indicator"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:130
+msgid "Standard menu typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:306 
+#: inc/tgmpa/acf-php/global_menu.php:737
+msgid "Standard position"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:710
+msgid "Standard WordPress"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1518 
+#: inc/tgmpa/acf-php/global_footer.php:121
+msgid "Sticky footer"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:57 
+#: inc/tgmpa/acf-php/global_portfolio.php:52
+msgid "Sticky grid"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:369
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:667 
+#: inc/tgmpa/acf-php/_group_page_options.php:673 
+#: inc/tgmpa/acf-php/global_header.php:385
+msgid "Sticky header"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:462
+msgid "Sticky header background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:486
+msgid "Sticky header border"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:540
+msgid "Sticky header border color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:508
+msgid "Sticky header border type"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:445
+msgid "Sticky header height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:421
+msgid "Sticky header initial offset"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:399
+msgid "Sticky header on mobile"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:578
+msgid "Sticky header typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:96 inc/tgmpa/acf-php/global_product.php:97
+msgid "Sticky product"
+msgstr ""
+
+#: parts/portfolio_grid/lightbox.php:103 inc/tgmpa/acf-php/project.php:104 
+#: parts/portfolio/components/options_group.php:8
+msgid "Strategy"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:105
+msgid "sub item"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:693 
+#: inc/tgmpa/acf-php/_group_page_options.php:699 
+#: inc/tgmpa/acf-php/global_header.php:595 
+#: inc/tgmpa/acf-php/global_header.php:606
+msgid "Subheader"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:756 
+#: inc/tgmpa/acf-php/global_header.php:638
+msgid "Subheader background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:746
+msgid "Subheader currency switcher"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:662 
+#: inc/tgmpa/acf-php/global_header.php:704
+msgid "Subheader elements"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:738 
+#: inc/tgmpa/acf-php/global_header.php:620
+msgid "Subheader height"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_header.php:768
+msgid "Subheader language switcher"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:719
+msgid "Subheader styles"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:780 
+#: inc/tgmpa/acf-php/global_header.php:805
+msgid "Subheader typography"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Submit Review"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:353
+msgid "Subscribe Pop-Up"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:364
+msgid "Subscribe pop-up"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:378
+msgid "Subscribe pop-up background"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:450
+msgid "Subscribe pop-up details"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:402
+msgid "Subscribe pop-up form"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:428
+msgid "Subscribe pop-up heading"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:487
+msgid "Subscribe pop-up triggers"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1267
+msgid "Subtitle settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:421
+msgid "Subtitle typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:392 
+#: inc/tgmpa/acf-php/global_typography.php:476
+msgid "Subtitles"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:188 
+#: inc/tgmpa/acf-php/template_portfolio.php:386 
+#: inc/tgmpa/acf-php/template_blog.php:225 
+#: inc/tgmpa/acf-php/global_blog.php:238 
+#: inc/tgmpa/acf-php/global_portfolio.php:391
+msgid "Sync animation"
+msgstr ""
+
+#: parts/elements/social_bar.php:237
+msgid "Ta."
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:220 parts/elements/page_headline.php:46 
+#: inc/tgmpa/acf-php/global_product.php:167
+msgid "Tag"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:679
+msgid "Tag filter"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:76 parts/elements/breadcrumbs.php:71 
+#: parts/elements/breadcrumbs.php:72
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. used between list items, there is a space after the comma
+#: inc/template_tags.php:49
+msgid "Tagged with"
+msgstr ""
+
+#: parts/portfolio_grid/lightbox.php:133 parts/elements/breadcrumbs.php:366 
+#: inc/tgmpa/acf-php/product.php:156 
+#: parts/portfolio/components/options_group.php:40
+msgid "Tags"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:90 parts/portfolio/components/task.php:7
+msgid "Task"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:178 inc/tgmpa/acf-php/global_other.php:746
+msgid "Teamspeak"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:179 inc/tgmpa/acf-php/global_other.php:747
+msgid "Telegram"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:491 
+#: inc/tgmpa/acf-php/template_portfolio.php:1242 
+#: inc/tgmpa/acf-php/template_blog.php:440 
+#: inc/tgmpa/acf-php/global_blog.php:747 
+#: inc/tgmpa/acf-php/global_portfolio.php:1774
+msgid "Text"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:685
+msgid "Text background color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:135 
+#: inc/tgmpa/acf-php/global_general.php:147 
+#: inc/tgmpa/acf-php/global_general.php:280 
+#: inc/tgmpa/acf-php/_group_page_options.php:49 
+#: inc/tgmpa/acf-php/_group_page_options.php:1617 
+#: inc/tgmpa/acf-php/global_footer.php:363
+msgid "Text logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:62 
+#: inc/tgmpa/acf-php/global_footer.php:378
+msgid "Text logo settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:164
+msgid "Text logo typography"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52 woocommerce/checkout/thankyou.php:108
+msgid "Thank you."
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:225
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:46
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:628
+msgid "the setup guide"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:60 inc/tgmpa/acf_setup.php:95
+msgid "Theme Blog Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:88
+msgid "Theme Footer Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:32 inc/tgmpa/acf_setup.php:39
+msgid "Theme Header Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:11 inc/tgmpa/acf_setup.php:18 
+#: inc/tgmpa/acf_setup.php:25 inc/tgmpa/acf_setup.php:46
+msgid "Theme Pages Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:102
+msgid "Theme Plugins"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:53
+msgid "Theme Portfolio Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:67
+msgid "Theme Post Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:19 inc/tgmpa/acf-php/global_general.php:10
+msgid "Theme Styling"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:81
+msgid "Theme WooCommerce Product Settings"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:74
+msgid "Theme WooCommerce Settings"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "There are no reviews yet."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:27 
+#: inc/tgmpa/acf-php/_group_page_options.php:27 
+#: inc/tgmpa/acf-php/global_page.php:32 inc/tgmpa/acf-php/global_header.php:27 
+#: inc/tgmpa/acf-php/global_blog.php:27 
+#: inc/tgmpa/acf-php/global_portfolio.php:27 
+#: inc/tgmpa/acf-php/global_menu.php:27 inc/tgmpa/acf-php/global_footer.php:27
+msgid ""
+"These settings apply to all the pages of your site. Use local Page Settings "
+"to override some options for individual pages."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:27
+msgid ""
+"These settings apply to all the shop pages of your site. Use local Page "
+"Settings to override some options for individual shop pages."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:33 
+#: woocommerce/single-product/add-to-cart/simple.php:54
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/share.php:91
+msgid "this wishlist link and share it anywhere)"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:148 
+#: inc/tgmpa/acf-php/global_portfolio.php:116
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:180 inc/tgmpa/acf-php/global_other.php:748
+msgid "TikTok"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:502
+msgid "Time"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:160
+msgid "Title"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:164
+msgid "Title Attribute"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1248
+msgid "Title settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:412 inc/tgmpa/acf-php/global_blog.php:509 
+#: inc/tgmpa/acf-php/global_portfolio.php:1335
+msgid "Title typography"
+msgstr ""
+
+#: parts/elements/social_bar.php:228
+msgid "Tk."
+msgstr ""
+
+#: parts/elements/social_bar.php:219
+msgid "Tl."
+msgstr ""
+
+#: parts/elements/social_bar.php:210 parts/elements/social_bar.php:246
+msgid "Tm."
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_blog.php:27
+msgid "To find more blog page settings navigate to"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:27
+msgid "To find more portfolio page settings navigate to"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:16
+msgid "To find more portfolio project settings navigate to"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:236
+msgid "To the top"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:105 
+#: inc/tgmpa/acf-php/project_settings.php:214 
+#: inc/tgmpa/acf-php/global_portfolio.php:1919
+msgid "Top - Before content"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_portfolio.php:1638
+msgid "Top - Before portfolio"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:610
+msgid "Top - Before products"
+msgstr ""
+
+#: woocommerce/order/order-details.php:51 woocommerce/checkout/thankyou.php:74 
+#: woocommerce/cart/cart-totals.php:91 woocommerce/cart/cart-totals.php:92
+msgid "Total"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:181 inc/tgmpa/acf-php/global_other.php:749
+msgid "Tripadvisor"
+msgstr ""
+
+#: parts/content-none.php:9 woocommerce/loop/no-products-found.php:27
+msgid "Try using other search criteria"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:182 inc/tgmpa/acf-php/global_other.php:750
+msgid "Tumblr"
+msgstr ""
+
+#: parts/elements/social_bar.php:255 parts/elements/social_bar.php:264
+msgid "Tw."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:183 inc/tgmpa/acf-php/global_other.php:751
+msgid "Twitch"
+msgstr ""
+
+#: woocommerce/share.php:55 woocommerce/share.php:56 
+#: inc/framework/components/object_parser.php:447 
+#: inc/tgmpa/acf-php/global_post.php:184 inc/tgmpa/acf-php/global_post.php:342 
+#: inc/tgmpa/acf-php/global_portfolio.php:2398 
+#: inc/tgmpa/acf-php/global_product.php:309 
+#: inc/tgmpa/acf-php/global_other.php:752
+msgid "Twitter"
+msgstr ""
+
+#: inc/tgmpa/acf_setup.php:26 inc/tgmpa/acf-php/global_product.php:181
+msgid "Typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:187 inc/tgmpa/acf-php/global_page.php:388 
+#: inc/tgmpa/acf-php/global_page.php:495 inc/tgmpa/acf-php/global_page.php:622 
+#: inc/tgmpa/acf-php/global_typography.php:5 
+#: inc/tgmpa/acf-php/global_header.php:563 
+#: inc/tgmpa/acf-php/global_header.php:790 
+#: inc/tgmpa/acf-php/global_menu.php:599 
+#: inc/tgmpa/acf-php/global_footer.php:135 
+#: inc/tgmpa/acf-php/global_footer.php:297 
+#: inc/tgmpa/acf-php/global_other.php:207 
+#: inc/tgmpa/acf-php/global_other.php:585 
+#: inc/tgmpa/acf-php/global_other.php:866 
+#: inc/tgmpa/acf-php/global_other.php:1100
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:27
+msgid "Typography settings apply to all the pages of your site."
+msgstr ""
+
+#: parts/elements/breadcrumbs.php:281 parts/elements/page_headline.php:110
+msgid "Undefined"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:232
+msgid "Up one"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:44
+msgid "Update totals"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:45
+msgid "Updating..."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:419
+msgid "Upload a custom preloader image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:399
+msgid "Upload custom image for footer logo"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:213
+msgid "Upload Image"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:48
+msgid "Upload image and set up attributes"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:294
+msgid "Upload logo variant for sticky header"
+msgstr ""
+
+#: inc/menu/edit_mega_menu_walker.php:151 
+#: inc/tgmpa/acf-php/global_other.php:770
+msgid "URL"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:927 
+#: inc/tgmpa/acf-php/_group_page_options.php:951 
+#: inc/tgmpa/acf-php/_group_page_options.php:985 
+#: inc/tgmpa/acf-php/global_page.php:68 inc/tgmpa/acf-php/global_page.php:90 
+#: inc/tgmpa/acf-php/global_page.php:126 inc/tgmpa/acf-php/global_page.php:149 
+#: inc/tgmpa/acf-php/global_page.php:185 
+#: inc/tgmpa/acf-php/global_header.php:212 
+#: inc/tgmpa/acf-php/global_header.php:239 
+#: inc/tgmpa/acf-php/global_footer.php:77 
+#: inc/tgmpa/acf-php/global_footer.php:99
+msgid "Use CSS units"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:547
+msgid "Use custom HTML or UTF-8 symbols. Slashes or arrows are recommended"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:727
+msgid "Use from Header & Menu Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_background_options.php:17
+msgid "Use from Inherited Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:31 
+#: inc/tgmpa/acf-php/project_settings.php:104 
+#: inc/tgmpa/acf-php/project_settings.php:124 
+#: inc/tgmpa/acf-php/project_settings.php:213 
+#: inc/tgmpa/acf-php/project_settings.php:256 
+#: inc/tgmpa/acf-php/project_settings.php:303 
+#: inc/tgmpa/acf-php/project_settings.php:392 
+#: inc/tgmpa/acf-php/project_settings.php:512 
+#: inc/tgmpa/acf-php/project_settings.php:559 
+#: inc/tgmpa/acf-php/project_settings.php:627 
+#: inc/tgmpa/acf-php/project_settings.php:904 
+#: inc/tgmpa/acf-php/project_settings.php:927 
+#: inc/tgmpa/acf-php/_group_page_options.php:46 
+#: inc/tgmpa/acf-php/_group_page_options.php:121 
+#: inc/tgmpa/acf-php/_group_page_options.php:147 
+#: inc/tgmpa/acf-php/_group_page_options.php:167 
+#: inc/tgmpa/acf-php/_group_page_options.php:204 
+#: inc/tgmpa/acf-php/_group_page_options.php:242 
+#: inc/tgmpa/acf-php/_group_page_options.php:278 
+#: inc/tgmpa/acf-php/_group_page_options.php:380 
+#: inc/tgmpa/acf-php/_group_page_options.php:430 
+#: inc/tgmpa/acf-php/_group_page_options.php:450 
+#: inc/tgmpa/acf-php/_group_page_options.php:470 
+#: inc/tgmpa/acf-php/_group_page_options.php:490 
+#: inc/tgmpa/acf-php/_group_page_options.php:653 
+#: inc/tgmpa/acf-php/_group_page_options.php:680 
+#: inc/tgmpa/acf-php/_group_page_options.php:706 
+#: inc/tgmpa/acf-php/_group_page_options.php:842 
+#: inc/tgmpa/acf-php/_group_page_options.php:898 
+#: inc/tgmpa/acf-php/_group_page_options.php:964 
+#: inc/tgmpa/acf-php/_group_page_options.php:1002 
+#: inc/tgmpa/acf-php/_group_page_options.php:1021 
+#: inc/tgmpa/acf-php/_group_page_options.php:1041 
+#: inc/tgmpa/acf-php/_group_page_options.php:1117 
+#: inc/tgmpa/acf-php/_group_page_options.php:1145 
+#: inc/tgmpa/acf-php/_group_page_options.php:1158 
+#: inc/tgmpa/acf-php/_group_page_options.php:1196 
+#: inc/tgmpa/acf-php/_group_page_options.php:1215 
+#: inc/tgmpa/acf-php/_group_page_options.php:1299 
+#: inc/tgmpa/acf-php/_group_page_options.php:1324 
+#: inc/tgmpa/acf-php/_group_page_options.php:1348 
+#: inc/tgmpa/acf-php/_group_page_options.php:1401 
+#: inc/tgmpa/acf-php/_group_page_options.php:1457 
+#: inc/tgmpa/acf-php/_group_page_options.php:1477 
+#: inc/tgmpa/acf-php/_group_page_options.php:1512 
+#: inc/tgmpa/acf-php/_group_page_options.php:1525 
+#: inc/tgmpa/acf-php/_group_page_options.php:1551 
+#: inc/tgmpa/acf-php/_group_page_options.php:1614 
+#: inc/tgmpa/acf-php/product.php:30 inc/tgmpa/acf-php/product.php:64 
+#: inc/tgmpa/acf-php/product.php:101 inc/tgmpa/acf-php/product.php:116 
+#: inc/tgmpa/acf-php/product.php:131 inc/tgmpa/acf-php/product.php:146 
+#: inc/tgmpa/acf-php/product.php:161 inc/tgmpa/acf-php/product.php:177 
+#: inc/tgmpa/acf-php/template_portfolio.php:42 
+#: inc/tgmpa/acf-php/template_portfolio.php:171 
+#: inc/tgmpa/acf-php/template_portfolio.php:187 
+#: inc/tgmpa/acf-php/template_portfolio.php:240 
+#: inc/tgmpa/acf-php/template_portfolio.php:384 
+#: inc/tgmpa/acf-php/template_portfolio.php:516 
+#: inc/tgmpa/acf-php/template_portfolio.php:584 
+#: inc/tgmpa/acf-php/template_portfolio.php:612 
+#: inc/tgmpa/acf-php/template_portfolio.php:655 
+#: inc/tgmpa/acf-php/template_portfolio.php:698 
+#: inc/tgmpa/acf-php/template_portfolio.php:741 
+#: inc/tgmpa/acf-php/template_portfolio.php:784 
+#: inc/tgmpa/acf-php/template_portfolio.php:827 
+#: inc/tgmpa/acf-php/template_portfolio.php:909 
+#: inc/tgmpa/acf-php/template_portfolio.php:952 
+#: inc/tgmpa/acf-php/template_portfolio.php:996 
+#: inc/tgmpa/acf-php/template_portfolio.php:1001 
+#: inc/tgmpa/acf-php/template_portfolio.php:1027 
+#: inc/tgmpa/acf-php/template_portfolio.php:1047 
+#: inc/tgmpa/acf-php/template_portfolio.php:1070 
+#: inc/tgmpa/acf-php/template_portfolio.php:1119 
+#: inc/tgmpa/acf-php/template_portfolio.php:1185 
+#: inc/tgmpa/acf-php/template_portfolio.php:1215 
+#: inc/tgmpa/acf-php/template_portfolio.php:1239 
+#: inc/tgmpa/acf-php/template_portfolio.php:1263 
+#: inc/tgmpa/acf-php/template_portfolio.php:1287 
+#: inc/tgmpa/acf-php/template_blog.php:42 
+#: inc/tgmpa/acf-php/template_blog.php:110 
+#: inc/tgmpa/acf-php/template_blog.php:133 
+#: inc/tgmpa/acf-php/template_blog.php:150 
+#: inc/tgmpa/acf-php/template_blog.php:223 
+#: inc/tgmpa/acf-php/template_blog.php:288 
+#: inc/tgmpa/acf-php/template_blog.php:316 
+#: inc/tgmpa/acf-php/template_blog.php:336 
+#: inc/tgmpa/acf-php/template_blog.php:374 
+#: inc/tgmpa/acf-php/template_blog.php:413 
+#: inc/tgmpa/acf-php/template_blog.php:437 
+#: inc/tgmpa/acf-php/template_blog.php:461 
+#: inc/tgmpa/acf-php/template_blog.php:485
+msgid "Use from Theme Settings"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:466
+msgid "Use header content wrapper"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:1154
+msgid "Use options cache"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:446 
+#: inc/tgmpa/acf-php/global_header.php:146
+msgid "Use this option with fixed or sticky header layouts"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:211
+msgid "Used for dark tone websites and a dark mode"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:185
+msgid "Used for regular and sticky headers by default"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:96
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:54
+msgid "Username or email address"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:179
+msgid "Value"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:42
+msgid "verified owner"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1003 
+#: inc/tgmpa/acf-php/global_portfolio.php:1223
+msgid "Vertical"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:107 
+#: inc/tgmpa/acf-php/global_portfolio.php:102
+msgid "Vertical interactive links"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:131
+msgid "Very poor"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:64
+msgid "Video"
+msgstr ""
+
+#: inc/tgmpa/acf-php/template_portfolio.php:1020 
+#: inc/tgmpa/acf-php/global_portfolio.php:1244
+msgid "Video button"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:943 
+#: inc/tgmpa/acf-php/template_portfolio.php:1086 
+#: inc/tgmpa/acf-php/global_portfolio.php:1318 
+#: inc/tgmpa/acf-php/global_portfolio.php:2349
+msgid "Video button color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:920 
+#: inc/tgmpa/acf-php/template_portfolio.php:1063 
+#: inc/tgmpa/acf-php/global_portfolio.php:1288 
+#: inc/tgmpa/acf-php/global_portfolio.php:2327
+msgid "Video button size"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:897 
+#: inc/tgmpa/acf-php/template_portfolio.php:1040 
+#: inc/tgmpa/acf-php/global_portfolio.php:1258 
+#: inc/tgmpa/acf-php/global_portfolio.php:2305
+msgid "Video button style"
+msgstr ""
+
+#: inc/enqueue.php:129
+msgid "View Cart"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:185 inc/tgmpa/acf-php/global_other.php:753
+msgid "Vimeo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:186 inc/tgmpa/acf-php/global_other.php:754
+msgid "Vine"
+msgstr ""
+
+#: parts/elements/social_bar.php:273
+msgid "Vm."
+msgstr ""
+
+#: parts/elements/social_bar.php:282
+msgid "Vn."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_general.php:387
+msgid "Waves"
+msgstr ""
+
+#: coming-soon.php:7
+msgid "We're under construction"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_other.php:93
+msgid "We're under<br> construction"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:85
+msgid "web fonts to use on your website"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_typography.php:63
+msgid "web project ID"
+msgstr ""
+
+#: parts/elements/social_bar.php:291
+msgid "Wh."
+msgstr ""
+
+#: woocommerce/share.php:80 inc/tgmpa/acf-php/global_post.php:187 
+#: inc/tgmpa/acf-php/global_other.php:755
+msgid "WhatsApp"
+msgstr ""
+
+#: woocommerce/share.php:81
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:147
+msgid "Wide - 2 column width"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:824
+msgid "Wide - 2-column wide"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:85
+msgid "Wide - 2-columns wide"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:510
+msgid "Widget content typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:501
+msgid "Widget heading typography"
+msgstr ""
+
+#: inc/tgmpa/acf-php/product.php:228
+msgid "Widget title text color"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:415 
+#: inc/tgmpa/acf-php/global_header.php:94
+msgid "With center hamburger"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:400 
+#: inc/tgmpa/acf-php/global_header.php:79
+msgid "With center logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:395 
+#: inc/tgmpa/acf-php/global_header.php:74
+msgid "With center menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:405 
+#: inc/tgmpa/acf-php/global_header.php:84
+msgid "With sidebar menu"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:410 
+#: inc/tgmpa/acf-php/global_header.php:89
+msgid "With top hamburger"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:390 
+#: inc/tgmpa/acf-php/global_header.php:69
+msgid "With top logo"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project_settings.php:125
+msgid "Without navigation"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:711
+msgid "WooCommerce AJAX"
+msgstr ""
+
+#: inc/tgmpa/woocommerce_setup.php:87
+msgid "WooCommerce sidebar."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_blog.php:538 
+#: inc/tgmpa/acf-php/global_portfolio.php:1491 
+#: inc/tgmpa/acf-php/global_portfolio.php:2640
+msgid "words"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:639
+msgid "WPML"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_menu.php:650
+msgid "WPML language switcher"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_page.php:158
+msgid "Wrap pages in a boxed container"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:960
+msgid "Wrap this page in boxed container?"
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1704 
+#: inc/tgmpa/acf-php/global_custom_css.php:36 
+#: inc/tgmpa/acf-php/global_custom_css.php:59 
+#: inc/tgmpa/acf-php/global_custom_css.php:70 
+#: inc/tgmpa/acf-php/global_custom_css.php:81
+msgid "Write a custom CSS code here"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:52
+msgid "Write a review"
+msgstr ""
+
+#: inc/tgmpa/acf-php/project.php:13
+msgid "Write a short description for this project"
+msgstr ""
+
+#: parts/elements/social_bar.php:300
+msgid "Xi."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:188 inc/tgmpa/acf-php/global_other.php:756
+msgid "Xing"
+msgstr ""
+
+#: inc/menu/mega_menu.php:68 inc/menu/mega_menu.php:111 
+#: inc/tgmpa/acf-php/global_general.php:82 
+#: inc/tgmpa/acf-php/global_general.php:354 
+#: inc/tgmpa/acf-php/global_general.php:521 
+#: inc/tgmpa/acf-php/global_general.php:545 
+#: inc/tgmpa/acf-php/global_general.php:559 
+#: inc/tgmpa/acf-php/global_general.php:600 
+#: inc/tgmpa/acf-php/global_general.php:631 
+#: inc/tgmpa/acf-php/global_general.php:653 
+#: inc/tgmpa/acf-php/_group_page_options.php:122 
+#: inc/tgmpa/acf-php/_group_page_options.php:148 
+#: inc/tgmpa/acf-php/_group_page_options.php:168 
+#: inc/tgmpa/acf-php/_group_page_options.php:279 
+#: inc/tgmpa/acf-php/_group_page_options.php:366 
+#: inc/tgmpa/acf-php/_group_page_options.php:471 
+#: inc/tgmpa/acf-php/_group_page_options.php:654 
+#: inc/tgmpa/acf-php/_group_page_options.php:681 
+#: inc/tgmpa/acf-php/_group_page_options.php:965 
+#: inc/tgmpa/acf-php/_group_page_options.php:1042 
+#: inc/tgmpa/acf-php/_group_page_options.php:1159 
+#: inc/tgmpa/acf-php/_group_page_options.php:1197 
+#: inc/tgmpa/acf-php/_group_page_options.php:1203 
+#: inc/tgmpa/acf-php/_group_page_options.php:1402 
+#: inc/tgmpa/acf-php/_group_page_options.php:1526 
+#: inc/tgmpa/acf-php/global_ecommerce.php:113 
+#: inc/tgmpa/acf-php/global_ecommerce.php:269 
+#: inc/tgmpa/acf-php/global_ecommerce.php:326 
+#: inc/tgmpa/acf-php/global_ecommerce.php:370 
+#: inc/tgmpa/acf-php/global_ecommerce.php:402 
+#: inc/tgmpa/acf-php/template_portfolio.php:241 
+#: inc/tgmpa/acf-php/template_portfolio.php:517 
+#: inc/tgmpa/acf-php/template_portfolio.php:585 
+#: inc/tgmpa/acf-php/template_portfolio.php:613 
+#: inc/tgmpa/acf-php/template_blog.php:134 
+#: inc/tgmpa/acf-php/template_blog.php:151 
+#: inc/tgmpa/acf-php/template_blog.php:156 
+#: inc/tgmpa/acf-php/global_page.php:47 inc/tgmpa/acf-php/global_page.php:103 
+#: inc/tgmpa/acf-php/global_page.php:227 inc/tgmpa/acf-php/global_page.php:241 
+#: inc/tgmpa/acf-php/global_page.php:309 inc/tgmpa/acf-php/global_page.php:341 
+#: inc/tgmpa/acf-php/global_page.php:361 inc/tgmpa/acf-php/global_page.php:383 
+#: inc/tgmpa/acf-php/global_page.php:539 inc/tgmpa/acf-php/global_page.php:593 
+#: inc/tgmpa/acf-php/global_page.php:680 inc/tgmpa/acf-php/global_page.php:702 
+#: inc/tgmpa/acf-php/global_header.php:42 
+#: inc/tgmpa/acf-php/global_header.php:138 
+#: inc/tgmpa/acf-php/global_header.php:164 
+#: inc/tgmpa/acf-php/global_header.php:186 
+#: inc/tgmpa/acf-php/global_header.php:314 
+#: inc/tgmpa/acf-php/global_header.php:394 
+#: inc/tgmpa/acf-php/global_header.php:416 
+#: inc/tgmpa/acf-php/global_header.php:503 
+#: inc/tgmpa/acf-php/global_header.php:615 
+#: inc/tgmpa/acf-php/global_header.php:763 
+#: inc/tgmpa/acf-php/global_header.php:785 
+#: inc/tgmpa/acf-php/global_blog.php:110 inc/tgmpa/acf-php/global_blog.php:170 
+#: inc/tgmpa/acf-php/global_blog.php:373 inc/tgmpa/acf-php/global_blog.php:389 
+#: inc/tgmpa/acf-php/global_blog.php:434 inc/tgmpa/acf-php/global_blog.php:451 
+#: inc/tgmpa/acf-php/global_blog.php:469 inc/tgmpa/acf-php/global_blog.php:484 
+#: inc/tgmpa/acf-php/global_blog.php:501 inc/tgmpa/acf-php/global_blog.php:526 
+#: inc/tgmpa/acf-php/global_blog.php:545 inc/tgmpa/acf-php/global_blog.php:563 
+#: inc/tgmpa/acf-php/global_blog.php:578 inc/tgmpa/acf-php/global_blog.php:595 
+#: inc/tgmpa/acf-php/global_blog.php:610 inc/tgmpa/acf-php/global_blog.php:627 
+#: inc/tgmpa/acf-php/global_portfolio.php:630 
+#: inc/tgmpa/acf-php/global_portfolio.php:652 
+#: inc/tgmpa/acf-php/global_portfolio.php:2375 
+#: inc/tgmpa/acf-php/global_menu.php:103 inc/tgmpa/acf-php/global_menu.php:125 
+#: inc/tgmpa/acf-php/global_menu.php:363 inc/tgmpa/acf-php/global_menu.php:436 
+#: inc/tgmpa/acf-php/global_menu.php:519 inc/tgmpa/acf-php/global_menu.php:580 
+#: inc/tgmpa/acf-php/global_menu.php:594 inc/tgmpa/acf-php/global_menu.php:634 
+#: inc/tgmpa/acf-php/global_menu.php:659 inc/tgmpa/acf-php/global_menu.php:782 
+#: inc/tgmpa/acf-php/global_menu.php:803 
+#: inc/tgmpa/acf-php/global_product.php:60 
+#: inc/tgmpa/acf-php/global_product.php:78 
+#: inc/tgmpa/acf-php/global_product.php:92 
+#: inc/tgmpa/acf-php/global_product.php:106 
+#: inc/tgmpa/acf-php/global_product.php:134 
+#: inc/tgmpa/acf-php/global_product.php:148 
+#: inc/tgmpa/acf-php/global_product.php:162 
+#: inc/tgmpa/acf-php/global_product.php:176 
+#: inc/tgmpa/acf-php/global_footer.php:42 
+#: inc/tgmpa/acf-php/global_footer.php:56 
+#: inc/tgmpa/acf-php/global_footer.php:188 
+#: inc/tgmpa/acf-php/global_other.php:30 inc/tgmpa/acf-php/global_other.php:96 
+#: inc/tgmpa/acf-php/global_other.php:118 
+#: inc/tgmpa/acf-php/global_other.php:140 
+#: inc/tgmpa/acf-php/global_other.php:183 
+#: inc/tgmpa/acf-php/global_other.php:373 
+#: inc/tgmpa/acf-php/global_other.php:445 
+#: inc/tgmpa/acf-php/global_other.php:467 
+#: inc/tgmpa/acf-php/global_other.php:532 
+#: inc/tgmpa/acf-php/global_other.php:692 
+#: inc/tgmpa/acf-php/global_other.php:842 
+#: inc/tgmpa/acf-php/global_other.php:919 
+#: inc/tgmpa/acf-php/global_other.php:959 
+#: inc/tgmpa/acf-php/global_other.php:980 
+#: inc/tgmpa/acf-php/global_other.php:1000 
+#: inc/tgmpa/acf-php/global_other.php:1021 
+#: inc/tgmpa/acf-php/global_other.php:1163
+msgid "Yes"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:69
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:69
+msgid "You may also like"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:48
+msgid "You may be interested in"
+msgstr ""
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:121
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: inc/tgmpa/acf-php/_group_page_options.php:1695 
+#: inc/tgmpa/acf-php/global_custom_css.php:27
+msgid "You won't lose the following CSS code after updating the theme."
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:29
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_custom_css.php:40
+msgid "Your CSS code goes here"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:53
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:52 woocommerce/checkout/thankyou.php:108
+msgid "Your order has been received."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:225
+msgid "your profile menu"
+msgstr ""
+
+#: woocommerce/myaccount/orders.php:29
+msgid "Your recent orders are displayed in the table below."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:135
+msgid "Your review"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_post.php:189 inc/tgmpa/acf-php/global_other.php:757
+msgid "YouTube"
+msgstr ""
+
+#: parts/elements/social_bar.php:309
+msgid "Yt."
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_ecommerce.php:220 
+#: inc/tgmpa/acf-php/template_portfolio.php:451 
+#: inc/tgmpa/acf-php/template_blog.php:249 
+#: inc/tgmpa/acf-php/global_blog.php:270 
+#: inc/tgmpa/acf-php/global_portfolio.php:450
+msgid "Zoom in"
+msgstr ""
+
+#: inc/tgmpa/acf-php/global_footer.php:229 
+#: inc/tgmpa/acf-php/global_footer.php:251
+msgid "© 2020, Ohio Theme. Made with passion by"
+msgstr ""

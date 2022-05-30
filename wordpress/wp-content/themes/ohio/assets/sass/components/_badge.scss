@@ -1,0 +1,101 @@
+body {
+
+	.badge,
+	.tag,
+	.tagcloud > a,
+	.wp-block-tag-cloud > a,
+	.testimonial-headline > b {
+		font-weight: 500;
+		padding: 0.35rem 0.5rem;
+		line-height: 1;
+
+		@include border-radius;
+	}
+
+	.badge {
+		background-color: $color-black-light;
+		color: $color-white;
+		font-size: $font-size-caption;
+
+		&.-primary {
+			background-color: $color-red;
+		}
+	}
+
+	.tag,
+	.tagcloud > a,
+	.wp-block-tag-cloud > a,
+	.testimonial-headline > b {
+		background: $color-neutral-15;
+		font-size: $font-size-caption;
+
+		@include inline-flex;
+
+		> a {
+
+			@include unlink;
+		}
+
+		&:not(.tag-sale) {
+
+			&:hover,
+			&:focus,
+			&:active {
+				background: $color-neutral-35;
+				color: $color-black;
+			}
+		}
+
+		&.tag-sale {
+			background-color: $color-red;
+			color: $color-white;
+		}
+	}
+
+	.minimal-scheme {
+
+		.badge,
+		.tag {
+
+			@include border-radius(0);
+		}
+
+		a.tag {
+			background-color: transparent;
+			padding: 0.25rem 0;
+			font-size: $font-size-small;
+
+			&:hover,
+			&:focus,
+			&:active {
+				background-color: transparent;
+				color: $color-red;
+			}
+		}
+	}
+}
+
+// Pill
+
+.pill {
+	font-weight: 600;
+	height: 1.6rem;
+	line-height: 1;
+	padding: 0 0.65rem;
+	color: $color-black-light;
+	border: 2px solid currentColor;
+	margin-bottom: 0.75rem;
+	font-size: $font-size-caption;
+
+	@include inline-flex;
+	@include border-radius(0.8rem);
+
+	> svg {
+		fill: currentColor;
+		margin-right: 0.25rem;
+	}
+
+	&.-inverse {
+		color: $color-white;
+	}
+}

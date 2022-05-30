@@ -1,0 +1,25 @@
+select {
+	appearance: none;
+	background-repeat: no-repeat;
+	background-position: right 0.75rem center;
+	background-size: 14px 12px;
+	padding: 0 1rem;
+	padding-right: 2.25rem !important;
+	min-height: 3.125rem;
+	color: $color-grey;
+
+	@include chevron;
+}
+
+// Disable Select2
+
+.select2 {
+	display: none;
+
+	&-hidden-accessible {
+
+		width: 100% !important;
+		position: relative !important;
+		padding: 0 1rem !important;
+	}
+}

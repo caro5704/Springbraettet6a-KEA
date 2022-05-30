@@ -1,0 +1,33 @@
+.woocommerce-form-login {
+
+	.form-row_btn_remember_container {
+
+		@include flex;
+		@include align-items(center);
+		@include flex-just(space-between);
+
+		a {
+			font-size: $font-size-small;
+			margin: 0;
+		}
+	}
+
+	.woocommerce-form-login__rememberme,
+	.form-row_btn_remember_container label {
+
+		@include flex;
+		@include align-items(center);
+
+		input {
+			margin-right: 0.4rem;
+		}
+	}
+
+	.password-input {
+		display: block;
+	}
+
+	.woocommerce-form-login__submit {
+		margin-top: 1.25rem;
+	}
+}

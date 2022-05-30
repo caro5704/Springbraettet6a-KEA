@@ -1,0 +1,89 @@
+.sticky-product {
+    position: fixed;
+    overflow: hidden;
+    z-index: 11;
+    background: $color-white;
+
+    @include flex;
+    @include align-items(stretch);
+    @include border-radius;
+    @include spacer(right);
+    @include spacer(bottom);
+    @include box-shadow(false, 0px, 5px, 10px, 0px, $color-neutral-6);
+
+    &.visible {
+
+        @include faded;
+    }
+
+    // Thumbnail
+
+    &-thumbnail {
+        min-width: 6.5rem;
+        background-position: center;
+        background-size: cover;
+
+        @include sm-screen {
+
+            min-width: 5rem;
+        }
+    }
+
+    // Details
+
+    &-details {
+        padding: 1rem 0 1rem 1rem;
+        position: relative;
+        max-width: 20rem;
+        line-height: 1.4;
+
+        .category {
+            font-size: $font-size-small;
+        }
+
+        .headline {
+            max-width: 15rem;
+
+            @include inline-flex;
+
+            .tag {
+                font-weight: 600;
+                margin-left: 0.5rem;
+            }
+        }
+
+        .woo-product-name {
+
+            @include truncate(100%);
+        }
+
+        .button {
+            margin-top: 0.25rem;
+        }
+    }
+
+    .close-bar {
+        padding: 1rem;
+        height: initial;
+        
+        @include align-items(flex-start);
+    }
+
+    @include sm-screen {
+        left: $grid-spacer;
+
+        &-desc {
+            width: calc(100% - 9.125rem);
+
+            .title {
+                max-width: none;
+            }
+        }
+    }
+
+    .yith-wcwl-wishlistexistsbrowse,
+    .yith-wcwl-wishlistaddedbrowse,
+    .add_to_wishlist {
+        display: none !important;
+    }
+}
